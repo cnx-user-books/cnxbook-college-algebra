@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m51242</md:content-id>
   <md:title>Radicals and Rational Exponents</md:title>
-  <md:abstract><para>In this section, you will:</para><list>
+  <md:abstract>In this section students will:
+<list>
 <item>Evaluate square roots.</item>
 <item>Use the product rule to simplify square roots.</item>
 <item>Use the quotient rule to simplify square roots.</item>
@@ -17,74 +18,7 @@
 
 <content>
 
-<section id="eip-877" class="coreq-skills"><section id="fs-idm653475424" class="learning-objectives"><title>Learning Objective:</title><list id="eip-819"><item>Investigate the discipline called learning science and the idea of a knowledge space.
-</item>
-</list></section><section id="eip-978"><title>Objective 1: Investigate the discipline called learning science and the idea of a knowledge space.</title><para id="eip-733">The brain is a complex organ. It is the control center for our bodies, while the mind is where thinking and learning take place. In an attempt to understand the processes that occur in learning, researchers study a collection of disciplines called <term>learning sciences</term>. This interdisciplinary field includes study of psychological, sociological, anthropological, and computational approaches to learning.
-</para><para id="eip-684">In this skill sheet we will investigate the mathematics of mastery and knowledge spaces. A <term>knowledge space</term> includes the possible states of knowledge of a human learner. The theory of knowledge space was introduced in 1985 by mathematical psychologists Jean-Paul Doignon and Jean-Claude Falmagne and has since been studied by many researchers.
-<footnote id="spaces">Doignon, J.-P.; Falmagne, J.-Cl. (1985), "Spaces for the assessment of knowledge", International Journal of Man-Machine Studies.</footnote>
-</para>
-<section id="eip-453" class="practice-perfect"><title>Practice Makes Perfect</title><para id="eip-903"><emphasis>Investigation</emphasis>:  There are 32 student-learning outcomes (SLO’s) in a typical College Algebra course. These are topics a student needs to master to show proficiency in College Algebra. Let’s begin by looking at just a few of these skills.  Let’s assign the variables, A, B, C, and D to the following topics. We will name the set containing each of these 4 topics, Q.
-
-</para><list id="eip-446" list-type="bulleted" bullet-style="none"><item>A = Graph the basic functions listed in the library of functions.</item>
-<item>B = Find the domain of a function defined by an equation.</item>
-<item>C = Create a new function through composition of functions.</item>
-<item>D = Find linear functions that model data sets.</item>
-</list><para id="eip-940">Using roster notation Q = {A, B, C, D}. </para><exercise id="eip-464"><problem id="eip-419">
-  <para id="eip-294">List each of the possible <term>subsets</term> of the 4 topics listed above using roster notation. Remember a subset is a collection of topics in which each topic listed is an element of the set Q we defined above. By including a topic, we are indicating that the student has mastered the topic.
-
-  </para></problem>
-
-</exercise><exercise id="eip-935"><problem id="eip-250">
-  <para id="eip-871">
-Verify in your work above you have listed all 16 subsets to set Q. Remember that a subset may contain all of the topics listed in Q.
-
-  </para>
-</problem>
-
-</exercise><exercise id="eip-351"><problem id="eip-506">
-  <para id="eip-378">
-What formula could you use to help you determine the number of possible subsets? Remember that each topic could be mastered or not by a student.
-Show below that your formula would be equal to 16 for a list of 4 topics.
-
-  </para>
-</problem>
-
-</exercise><exercise id="eip-320"><problem id="eip-314">
-  <para id="eip-391">Now use the formula you found in #3 to find the number of subsets possible if we include all 32 student-learning outcomes.
-
-  </para>
-<para id="eip-idm368673616">Hint: In evaluating exponential terms, the function values increase very rapidly. To display very large (or very small) values, a calculator will use scientific notation. For example: 2.56 E6 is telling you to move the decimal point 6 places to the right and to insert zeros where you have missing values. </para>
-<para id="eip-idm368672912">For example: 2.56 E6 = 2,560,000 or 2 million, five hundred, sixty thousand.</para>
-</problem>
-
-
-</exercise><exercise id="eip-317"><problem id="eip-543">
-  <para id="eip-229">
-The subsets you created in #1 are referred to as knowledge spaces in the field of learning science. In this context mastery of one concept may depend on your mastery of another.
-  </para>
-<para id="fs-idm331711312"><emphasis>List one skill</emphasis> in mathematics that would help to master each of the following SLO’s:
-</para><list id="eip-447" list-type="bulleted" bullet-style="none"><item>A = Graph the basic functions listed in the library of functions.</item>
-<item>B = Find the domain of a function defined by an equation.</item>
-<item>C = Create a new function through composition of functions.</item>
-<item>D = Find linear functions that model data sets.</item>
-</list>
-</problem>
-</exercise><exercise id="eip-681"><problem id="eip-986">
-  <para id="eip-622">Mastery of what are called <term>linchpin topics</term> will make it easier to learn other topics. For example, the ability to solve linear equations with variables on both sides can “unlock” a whole set of new skills for a student to master.
-  </para><para id="eip-809">List 3 other <term class="no-emphasis">linchpin topics</term> that would help you to master this math course. Discuss these with others in your class. Did they identify the same topics?
-</para><list id="eip-942" list-type="enumerated" number-style="arabic"><item/>
-<item/>
-<item/></list></problem>
-
-</exercise><exercise id="eip-948"><problem id="eip-767">
-  <para id="eip-649">
-A corequisite course in mathematics is designed to provide support to a student by reviewing linchpin topics right when and where students need the help. Review of these important foundational ideas allow the learner to move on and master the student learning objectives for the course.
-  </para>
-<para id="eip-idm373224512">Brainstorm ideas with your classmates about ways this corequisite support course could help you in your learning.
-</para>
-</problem>
-
-</exercise></section></section></section><para id="fs-id1167339431492">A hardware store sells 16-ft ladders and 24-ft ladders. A window is located 12 feet above the ground. A ladder needs to be purchased that will reach the window from a point on the ground 5 feet from the building. To find out the length of ladder needed, we can draw a right triangle as shown in <link target-id="Figure_01_03_001"/>, and use the Pythagorean Theorem.</para>
+<para id="fs-id1167339431492">A hardware store sells 16-ft ladders and 24-ft ladders. A window is located 12 feet above the ground. A ladder needs to be purchased that will reach the window from a point on the ground 5 feet from the building. To find out the length of ladder needed, we can draw a right triangle as shown in <link target-id="Figure_01_03_001"/>, and use the Pythagorean Theorem.</para>
 
 <figure id="Figure_01_03_001" class="small">
 <media id="fs-id1167339431507" alt="A right triangle with a base of 5 feet, a height of 12 feet, and a hypotenuse labeled c">
@@ -92,7 +26,7 @@ A corequisite course in mathematics is designed to provide support to a student 
 </media>
 </figure>
 
-<equation id="fs-id1167339431519" class="unnumbered"><label/> <m:math display="block">
+<equation id="fs-id1167339431519" class="unnumbered"><label/><m:math display="block">
  <m:mrow>
   <m:mtable>
    <m:mtr>
@@ -106,7 +40,7 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>b</m:mi>
        <m:mn>2</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd>
@@ -118,7 +52,7 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>c</m:mi>
        <m:mn>2</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:mtd>
    </m:mtr>
@@ -135,7 +69,7 @@ A corequisite course in mathematics is designed to provide support to a student 
        </m:mrow>
        <m:mn>2</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd>
@@ -147,7 +81,7 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>c</m:mi>
        <m:mn>2</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:mtd>
    </m:mtr>
@@ -166,11 +100,11 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>c</m:mi>
        <m:mn>2</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:mtd>
    </m:mtr>
-
+   
   </m:mtable>
  </m:mrow>
 </m:math>
@@ -179,52 +113,52 @@ A corequisite course in mathematics is designed to provide support to a student 
 
 <section id="fs-id1167339431634">
 <title>Evaluating Square Roots</title>
-<para id="fs-id1167339431640">When the square root of a number is squared, the result is the original number. Since <m:math>
+<para id="fs-id1167339431640">When the square root of a number is squared, the result is the original number. Since<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msup>
+  <m:mtext> </m:mtext><m:msup>
    <m:mn>4</m:mn>
    <m:mn>2</m:mn>
   </m:msup>
   <m:mo>=</m:mo><m:mn>16</m:mn><m:mo>,</m:mo>
  </m:mrow>
-</m:math> the square root of <m:math>
+</m:math>the square root of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>16</m:mn><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mn>16</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is <m:math>
+</m:math>is<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>4.</m:mn><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mn>4.</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> The square root function is the inverse of the squaring function just as subtraction is the inverse of addition. To undo squaring, we take the square root.</para>
-<para id="fs-id1484606">In general terms, if <m:math>
+</m:math>The square root function is the inverse of the squaring function just as subtraction is the inverse of addition. To undo squaring, we take the square root.</para>
+<para id="fs-id1484606">In general terms, if<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is a positive real number, then the square root of <m:math>
+</m:math>is a positive real number, then the square root of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is a number that, when multiplied by itself, gives <m:math>
+</m:math>is a number that, when multiplied by itself, gives<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> The square root could be positive or negative because multiplying two negative numbers gives a positive number. The <term>principal square root</term> is the nonnegative number that when multiplied by itself equals <m:math>
+</m:math>The square root could be positive or negative because multiplying two negative numbers gives a positive number. The <term>principal square root</term> is the nonnegative number that when multiplied by itself equals<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> The square root obtained using a calculator is the principal square root.</para>
-<para id="fs-id1507362">The principal square root of <m:math>
+</m:math>The square root obtained using a calculator is the principal square root.</para> 
+<para id="fs-id1507362">The principal square root of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is written as <m:math>
+</m:math>is written as<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mi>a</m:mi>
   </m:msqrt>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> The symbol is called a <term>radical</term>, the term under the symbol is called the <term>radicand</term>, and the entire expression is called a <term>radical expression</term>.</para>
+</m:math>The symbol is called a <term>radical</term>, the term under the symbol is called the <term>radicand</term>, and the entire expression is called a <term>radical expression</term>.</para>
 
 <media id="fs-id1495127" alt="The expression: square root of twenty-five is enclosed in a circle. The circle has an arrow pointing to it labeled: Radical expression. The square root symbol has an arrow pointing to it labeled: Radical. The number twenty-five has an arrow pointing to it labeled: Radicand.">
 <image mime-type="image/jpg" src="../../media/CNX_CAT_Figure_01_03_002.jpg"/>
@@ -233,17 +167,17 @@ A corequisite course in mathematics is designed to provide support to a student 
 <note id="fs-id1524853">
 
 <title>Principal Square Root</title>
-<para id="fs-id1308198">The <term>principal square root</term> of <m:math>
+<para id="fs-id1308198">The <term>principal square root</term> of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is the nonnegative number that, when multiplied by itself, equals <m:math>
+</m:math>is the nonnegative number that, when multiplied by itself, equals<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> It is written as a <term>radical expression</term><emphasis>,</emphasis> with a symbol called a <term>radical</term> over the term called the <term>radicand</term>: <m:math>
+</m:math>It is written as a <term>radical expression</term><emphasis>,</emphasis> with a symbol called a <term>radical</term> over the term called the <term>radicand</term>:<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mi>a</m:mi>
   </m:msqrt>
   <m:mo>.</m:mo>
@@ -254,9 +188,9 @@ A corequisite course in mathematics is designed to provide support to a student 
 
 <note id="fs-id1167339431755" class="precalculus qa">
 <label>Q&amp;A</label>
-<para id="fs-id1501633"><emphasis>Does</emphasis> <m:math>
+<para id="fs-id1501633"><emphasis>Does</emphasis><m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mn>25</m:mn>
    </m:mrow>
@@ -265,31 +199,31 @@ A corequisite course in mathematics is designed to provide support to a student 
  </m:mrow>
 </m:math>
 </para>
-<para id="fs-id1401225"><emphasis effect="italics">No. Although both</emphasis> <m:math>
+<para id="fs-id1401225"><emphasis effect="italics">No. Although both</emphasis><m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msup>
+  <m:mtext> </m:mtext><m:msup>
    <m:mn>5</m:mn>
    <m:mn>2</m:mn>
   </m:msup>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> <emphasis effect="italics">and</emphasis> <m:math>
+</m:math><emphasis effect="italics">and</emphasis><m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msup>
+  <m:mtext> </m:mtext><m:msup>
    <m:mrow>
     <m:mo stretchy="false">(</m:mo><m:mn>−5</m:mn><m:mo stretchy="false">)</m:mo>
    </m:mrow>
    <m:mn>2</m:mn>
   </m:msup>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> <emphasis effect="italics">are</emphasis> <m:math>
+</m:math><emphasis effect="italics">are</emphasis><m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>25</m:mn><m:mo>,</m:mo>
+  <m:mtext> </m:mtext><m:mn>25</m:mn><m:mo>,</m:mo>
  </m:mrow>
-</m:math> <emphasis effect="italics">the radical symbol implies only a nonnegative root, the principal square root. The principal square root of 25 is</emphasis> <m:math>
+</m:math><emphasis effect="italics">the radical symbol implies only a nonnegative root, the principal square root. The principal square root of 25 is</emphasis><m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mn>25</m:mn>
    </m:mrow>
@@ -301,21 +235,23 @@ A corequisite course in mathematics is designed to provide support to a student 
 </note>
 
 <example id="Example_01_03_01">
-<exercise id="fs-id1495023"><problem id="fs-id1384212">
+<exercise id="fs-id1495023">
+<problem id="fs-id1384212">
 <title>Evaluating Square Roots</title>
 <para id="fs-id1497754">Evaluate each expression.</para>
-<list id="eip-idm466152832" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> <m:math>
+<list id="fs-id1412629" list-type="enumerated" number-style="lower-alpha">
+<item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>100</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓑ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -324,23 +260,25 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>16</m:mn>
      </m:mrow>
     </m:msqrt>
+    
    </m:mrow>
   </m:msqrt>
+  
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓒ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>25</m:mn><m:mo>+</m:mo><m:mn>144</m:mn>
    </m:mrow>
   </m:msqrt>
+  
  </m:mrow>
 </m:math>
 </item>
-
-<item><span class="token">ⓓ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -352,22 +290,25 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>81</m:mn>
    </m:mrow>
   </m:msqrt>
+  
  </m:mrow>
 </m:math>
 </item>
-</list></problem>
+</list>
+</problem>
 <solution id="fs-id1426188">
-<list id="eip-idm430429120" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> <m:math>
+<list id="fs-id1441682" list-type="enumerated" number-style="lower-alpha"><item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>100</m:mn>
    </m:mrow>
   </m:msqrt>
-  <m:mo>=</m:mo><m:mn>10</m:mn>
+  <m:mo>=</m:mo><m:mn>10</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> because <m:math>
- <m:mrow><m:msup>
+</m:math>because<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
    <m:mrow>
     <m:mn>10</m:mn>
    </m:mrow>
@@ -376,8 +317,8 @@ A corequisite course in mathematics is designed to provide support to a student 
   <m:mo>=</m:mo><m:mn>100</m:mn>
  </m:mrow>
 </m:math>
-</item>
-<item><span class="token">ⓑ</span> <m:math>
+</item> 
+<item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -386,31 +327,33 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>16</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:msqrt>
   <m:mo>=</m:mo><m:msqrt>
    <m:mn>4</m:mn>
   </m:msqrt>
-  <m:mo>=</m:mo><m:mn>2</m:mn>
+  <m:mo>=</m:mo><m:mn>2</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> because <m:math>
- <m:mrow><m:msup>
+</m:math>because<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
    <m:mn>4</m:mn>
    <m:mn>2</m:mn>
   </m:msup>
-  <m:mo>=</m:mo><m:mn>16</m:mn>
+  <m:mo>=</m:mo><m:mn>16</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> and <m:math>
- <m:mrow><m:msup>
+</m:math>and<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
    <m:mn>2</m:mn>
    <m:mn>2</m:mn>
   </m:msup>
   <m:mo>=</m:mo><m:mn>4</m:mn>
  </m:mrow>
 </m:math>
-</item>
-<item><span class="token">ⓒ</span> <m:math>
+</item> 
+<item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -422,10 +365,11 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>169</m:mn>
    </m:mrow>
   </m:msqrt>
-  <m:mo>=</m:mo><m:mn>13</m:mn>
+  <m:mo>=</m:mo><m:mn>13</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> because <m:math>
- <m:mrow><m:msup>
+</m:math>because<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
    <m:mrow>
     <m:mn>13</m:mn>
    </m:mrow>
@@ -434,8 +378,8 @@ A corequisite course in mathematics is designed to provide support to a student 
   <m:mo>=</m:mo><m:mn>169</m:mn>
  </m:mrow>
 </m:math>
-</item>
-<item><span class="token">ⓓ</span> <m:math>
+</item> 
+<item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -445,16 +389,18 @@ A corequisite course in mathematics is designed to provide support to a student 
    <m:mrow>
     <m:mn>81</m:mn></m:mrow>
   </m:msqrt>
-  <m:mo>=</m:mo><m:mn>7</m:mn><m:mo>−</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>−2</m:mn></m:mrow>
-</m:math> because <m:math>
- <m:mrow><m:msup>
+  <m:mo>=</m:mo><m:mn>7</m:mn><m:mo>−</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>−2</m:mn><m:mtext> </m:mtext></m:mrow>
+</m:math>because<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
    <m:mn>7</m:mn>
    <m:mn>2</m:mn>
   </m:msup>
-  <m:mo>=</m:mo><m:mn>49</m:mn>
+  <m:mo>=</m:mo><m:mn>49</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> and <m:math>
- <m:mrow><m:msup>
+</m:math>and<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
    <m:mn>9</m:mn>
    <m:mn>2</m:mn>
   </m:msup>
@@ -462,24 +408,25 @@ A corequisite course in mathematics is designed to provide support to a student 
  </m:mrow>
 </m:math>
 </item>
-</list></solution>
-</exercise></example>
+</list></solution> 
+</exercise>
+</example>
 
 <note id="fs-id1509816" class="precalculus qa">
 <label>Q&amp;A</label>
-<para id="fs-id1548788"><emphasis>For <m:math>
+<para id="fs-id1548788"><emphasis>For<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mn>25</m:mn><m:mo>+</m:mo><m:mn>144</m:mn>
    </m:mrow>
   </m:msqrt>
   <m:mo>,</m:mo>
  </m:mrow>
-</m:math> can we find the square roots before adding?</emphasis></para>
-<para id="fs-id1516694"><emphasis effect="italics">No.</emphasis> <m:math>
+</m:math>can we find the square roots before adding?</emphasis></para>
+<para id="fs-id1516694"><emphasis effect="italics">No.</emphasis><m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mn>25</m:mn>
    </m:mrow>
@@ -489,36 +436,36 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>144</m:mn>
    </m:mrow>
   </m:msqrt>
-  <m:mo>=</m:mo><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>12</m:mn><m:mo>=</m:mo><m:mn>17.</m:mn><m:mspace width="0.8em"/>
+  <m:mo>=</m:mo><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>12</m:mn><m:mo>=</m:mo><m:mn>17.</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> <emphasis effect="italics">This is not equivalent to</emphasis> <m:math>
+</m:math><emphasis effect="italics">This is not equivalent to</emphasis><m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mn>25</m:mn><m:mo>+</m:mo><m:mn>144</m:mn>
    </m:mrow>
   </m:msqrt>
-  <m:mo>=</m:mo><m:mn>13.</m:mn><m:mspace width="0.8em"/>
+  <m:mo>=</m:mo><m:mn>13.</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> <emphasis effect="italics">The order of operations requires us to add the terms in the radicand before finding the square root.</emphasis></para>
+</m:math><emphasis effect="italics">The order of operations requires us to add the terms in the radicand before finding the square root.</emphasis></para>
 </note>
 
 <note id="fs-id1314899" class="precalculus try">
 <label>Try It</label>
-<exercise id="ti_01_03_01"><problem id="fs-id1500200"><para id="fs-id1336948">Evaluate each expression.</para>
-<list id="eip-idm352810288" list-type="enumerated" number-style="arabic" class="circled">
-<item><span class="token">ⓐ</span> <m:math>
+<exercise id="ti_01_03_01">
+<problem id="fs-id1500200"><para id="fs-id1336948">Evaluate each expression.</para>
+<list id="fs-id1521740" list-type="enumerated" number-style="lower-alpha"><item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>225</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓑ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -527,25 +474,25 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>81</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓒ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>25</m:mn><m:mo>−</m:mo><m:mn>9</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓓ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -557,87 +504,91 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>121</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </item>
 </list></problem>
 <solution id="fs-id1501668">
-<list id="eip-idm636222176" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> <m:math>
+<list id="fs-id1399573" list-type="enumerated" number-style="lower-alpha">
+<item><m:math>
  <m:mrow>
   <m:mn>15</m:mn>
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓑ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:mn>3</m:mn>
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓒ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:mn>4</m:mn>
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓓ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:mn>17</m:mn>
  </m:mrow>
 </m:math>
 </item>
-</list></solution>
-</exercise></note>
+</list>
+</solution>
+</exercise>
+
+ </note>
 
 </section>
 <section id="fs-id1424126">
 <title>Using the Product Rule to Simplify Square Roots</title>
-<para id="fs-id1499813">To simplify a square root, we rewrite it such that there are no perfect squares in the radicand. There are several properties of square roots that allow us to simplify complicated radical expressions. The first rule we will look at is the <emphasis effect="italics">product rule for simplifying square roots,</emphasis> which allows us to separate the square root of a product of two numbers into the product of two separate rational expressions. For instance, we can rewrite <m:math>
+<para id="fs-id1499813">To simplify a square root, we rewrite it such that there are no perfect squares in the radicand. There are several properties of square roots that allow us to simplify complicated radical expressions. The first rule we will look at is the <emphasis effect="italics">product rule for simplifying square roots,</emphasis> which allows us to separate the square root of a product of two numbers into the product of two separate rational expressions. For instance, we can rewrite<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mn>15</m:mn>
    </m:mrow>
   </m:msqrt>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> as <m:math>
+</m:math>as<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mn>3</m:mn>
   </m:msqrt>
   <m:mo>⋅</m:mo><m:msqrt>
    <m:mn>5</m:mn>
   </m:msqrt>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> We can also use the product rule to express the product of multiple radical expressions as a single radical expression.</para>
+</m:math>We can also use the product rule to express the product of multiple radical expressions as a single radical expression.</para> 
 
 <note id="fs-id1494721"><title>The Product Rule for Simplifying Square Roots</title>
 
-<para id="eip-id1167336040491">If <m:math>
+<para id="eip-id1167336040491">If<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> and <m:math>
+</m:math>and<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>b</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>b</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> are nonnegative, the square root of the product <m:math>
+</m:math>are nonnegative, the square root of the product<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mi>b</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mi>b</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is equal to the product of the square roots of <m:math>
+</m:math>is equal to the product of the square roots of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> and <m:math>
+</m:math>and<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>b</m:mi><m:mo>.</m:mo><m:mspace width="0.8em"/></m:mrow>
+  <m:mtext> </m:mtext><m:mi>b</m:mi><m:mo>.</m:mo><m:mtext> </m:mtext></m:mrow>
 </m:math>
 
- </para><equation id="fs-id1524857" class="unnumbered"><label/> <m:math>
+ </para><equation id="fs-id1524857" class="unnumbered"><label/><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -650,11 +601,11 @@ A corequisite course in mathematics is designed to provide support to a student 
   <m:mo>⋅</m:mo><m:msqrt>
    <m:mi>b</m:mi>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </equation>
-</note><note id="fs-id1521678" class="how-to-notitle">
+</note><note id="fs-id1521678" class="precalculus howto">
 <label>How To</label>
 <para id="fs-id1343706"><emphasis>Given a square root radical expression, use the product rule to simplify it.
 </emphasis></para>
@@ -670,19 +621,19 @@ A corequisite course in mathematics is designed to provide support to a student 
 <problem id="fs-id1462154">
 <title>Using the Product Rule to Simplify Square Roots</title>
 <para id="fs-id1345068">Simplify the radical expression.</para>
-<list id="fs-id1362449" list-type="enumerated" number-style="arabic" class="circled">
-<item><span class="token">ⓐ</span> <m:math>
+<list id="fs-id1362449" list-type="enumerated" number-style="lower-alpha">
+<item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>300</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</item>
-<item><span class="token">ⓑ</span> <m:math>
+</item> 
+<item><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -694,19 +645,18 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>b</m:mi>
      <m:mn>4</m:mn>
     </m:msup>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </item>
-</list>
+</list> 
 
 </problem>
 <solution id="fs-id1323031">
-<list id="fs-id1372340" list-type="enumerated" number-style="arabic" class="circled">
-  <item><span class="token">ⓐ</span><newline/> <m:math>
+<list id="fs-id1372340" list-type="enumerated" number-style="lower-alpha"><item><newline/><m:math>
  <m:mrow>
   <m:mtable>
    <m:mtr>
@@ -717,7 +667,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>100</m:mn><m:mo>⋅</m:mo><m:mn>3</m:mn>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left">
@@ -737,7 +687,7 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mo>⋅</m:mo><m:msqrt>
        <m:mn>3</m:mn>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left">
@@ -752,7 +702,7 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>10</m:mn><m:msqrt>
        <m:mn>3</m:mn>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left">
@@ -761,13 +711,13 @@ A corequisite course in mathematics is designed to provide support to a student 
      </m:mrow>
     </m:mtd>
    </m:mtr>
-
+   
   </m:mtable>
  </m:mrow>
 </m:math>
 
 </item>
-<item><span class="token">ⓑ</span><newline/> <m:math>
+<item><newline/><m:math>
  <m:mrow>
   <m:mtable>
    <m:mtr>
@@ -786,7 +736,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mo>⋅</m:mo><m:mn>2</m:mn><m:mi>a</m:mi>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left">
@@ -808,7 +758,7 @@ A corequisite course in mathematics is designed to provide support to a student 
          <m:mi>b</m:mi>
          <m:mn>4</m:mn>
         </m:msup>
-
+        
        </m:mrow>
       </m:msqrt>
       <m:mo>⋅</m:mo><m:msqrt>
@@ -816,7 +766,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>2</m:mn><m:mi>a</m:mi>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left">
@@ -841,7 +791,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>2</m:mn><m:mi>a</m:mi>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left">
@@ -850,7 +800,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      </m:mrow>
     </m:mtd>
    </m:mtr>
-
+   
   </m:mtable>
  </m:mrow>
 </m:math>
@@ -862,9 +812,9 @@ A corequisite course in mathematics is designed to provide support to a student 
 <note id="fs-id903746" class="precalculus try">
 <label>Try It</label>
 <exercise id="ti_01_03_02">
-<problem id="fs-id1382952"><para id="fs-id1315388">Simplify <m:math>
+<problem id="fs-id1382952"><para id="fs-id1315388">Simplify<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mn>50</m:mn><m:msup>
      <m:mi>x</m:mi>
@@ -881,20 +831,20 @@ A corequisite course in mathematics is designed to provide support to a student 
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1383491"><para id="fs-id1308430"> <m:math>
+<solution id="fs-id1383491"><para id="fs-id1308430"><m:math>
  <m:mrow>
   <m:mn>5</m:mn><m:mrow><m:mo>|</m:mo> <m:mi>x</m:mi> <m:mo>|</m:mo></m:mrow><m:mrow><m:mo>|</m:mo> <m:mi>y</m:mi> <m:mo>|</m:mo></m:mrow><m:msqrt>
    <m:mrow>
     <m:mn>2</m:mn><m:mi>y</m:mi><m:mi>z</m:mi>
    </m:mrow>
   </m:msqrt>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> Notice the absolute value signs around <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis>? That’s because their value must be positive!</para></solution>
+</m:math>Notice the absolute value signs around <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis>? That’s because their value must be positive!</para></solution>
 </exercise>
  </note>
 
-<note id="fs-id1291623" class="how-to-notitle">
+<note id="fs-id1291623" class="precalculus howto">
 <label>How To</label>
 <para id="fs-id537400"><emphasis>Given the product of multiple radical expressions, use the product rule to combine them into one radical expression.
 </emphasis></para>
@@ -908,7 +858,7 @@ A corequisite course in mathematics is designed to provide support to a student 
 <exercise id="fs-id1490084">
 <problem id="fs-id1482591">
 <title>Using the Product Rule to Simplify the Product of Multiple Square Roots</title>
-<para id="fs-id1301591">Simplify the radical expression.<newline/> <m:math>
+<para id="fs-id1301591">Simplify the radical expression.<newline/><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -918,13 +868,13 @@ A corequisite course in mathematics is designed to provide support to a student 
   <m:mo>⋅</m:mo><m:msqrt>
    <m:mn>3</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para>
 </problem>
 <solution id="fs-id1310529">
-<para id="fs-id1301259"> <m:math>
+<para id="fs-id1301259"><m:math>
  <m:mrow>
   <m:mtable>
    <m:mtr rowalign="center">
@@ -935,7 +885,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>12</m:mn><m:mo>⋅</m:mo><m:mn>3</m:mn>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd rowalign="center" columnalign="left">
@@ -952,7 +902,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>36</m:mn>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left" rowalign="center">
@@ -967,7 +917,7 @@ A corequisite course in mathematics is designed to provide support to a student 
     </m:mtd>
     <m:mtd rowalign="center"/>
    </m:mtr>
-
+   
   </m:mtable>
  </m:mrow>
 </m:math>
@@ -979,9 +929,9 @@ A corequisite course in mathematics is designed to provide support to a student 
 <note id="fs-id1385114" class="precalculus try">
 <label>Try It</label>
 <exercise id="ti_01_03_03">
-<problem id="fs-id1428927"><para id="fs-id1324846">Simplify <m:math>
+<problem id="fs-id1428927"><para id="fs-id1324846">Simplify<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mn>50</m:mn><m:mi>x</m:mi>
    </m:mrow>
@@ -991,15 +941,15 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>2</m:mn><m:mi>x</m:mi>
    </m:mrow>
   </m:msqrt>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> assuming <m:math>
+</m:math>assuming<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>0.</m:mn>
+  <m:mtext> </m:mtext><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>0.</m:mn>
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1467867"><para id="fs-id1484811"> <m:math>
+<solution id="fs-id1467867"><para id="fs-id1484811"><m:math>
  <m:mrow>
   <m:mn>10</m:mn><m:mrow><m:mo>|</m:mo> <m:mi>x</m:mi> <m:mo>|</m:mo></m:mrow>
  </m:mrow>
@@ -1011,33 +961,33 @@ A corequisite course in mathematics is designed to provide support to a student 
 </section>
 <section id="fs-id1409429">
 <title>Using the Quotient Rule to Simplify Square Roots</title>
-<para id="fs-id1402495">Just as we can rewrite the square root of a product as a product of square roots, so too can we rewrite the square root of a quotient as a quotient of square roots, using the <emphasis effect="italics">quotient rule for simplifying square roots.</emphasis> It can be helpful to separate the numerator and denominator of a fraction under a radical so that we can take their square roots separately. We can rewrite <m:math>
+<para id="fs-id1402495">Just as we can rewrite the square root of a product as a product of square roots, so too can we rewrite the square root of a quotient as a quotient of square roots, using the <emphasis effect="italics">quotient rule for simplifying square roots.</emphasis> It can be helpful to separate the numerator and denominator of a fraction under a radical so that we can take their square roots separately. We can rewrite<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mfrac>
      <m:mn>5</m:mn>
      <m:mn>2</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> as <m:math>
+</m:math>as<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mrow>
     <m:msqrt>
      <m:mn>5</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msqrt>
      <m:mn>2</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
   <m:mo>.</m:mo>
@@ -1047,29 +997,29 @@ A corequisite course in mathematics is designed to provide support to a student 
 <note id="fs-id1442347">
 
 <title>The Quotient Rule for Simplifying Square Roots</title>
-<para id="fs-id1307814">The square root of the quotient <m:math>
+<para id="fs-id1307814">The square root of the quotient<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mi>a</m:mi>
    <m:mi>b</m:mi>
   </m:mfrac>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is equal to the quotient of the square roots of <m:math>
+</m:math>is equal to the quotient of the square roots of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> and <m:math>
+</m:math>and<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>b</m:mi><m:mo>,</m:mo>
+  <m:mtext> </m:mtext><m:mi>b</m:mi><m:mo>,</m:mo>
  </m:mrow>
-</m:math> where <m:math>
+</m:math>where<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0.</m:mn>
+  <m:mtext> </m:mtext><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0.</m:mn>
  </m:mrow>
 </m:math>
-</para>
-<equation id="fs-id1506954" class="unnumbered"><label/> <m:math>
+</para> 
+<equation id="fs-id1506954" class="unnumbered"><label/><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -1077,7 +1027,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>a</m:mi>
      <m:mi>b</m:mi>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
   <m:mo>=</m:mo><m:mfrac>
@@ -1085,22 +1035,22 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:msqrt>
      <m:mi>a</m:mi>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msqrt>
      <m:mi>b</m:mi>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </equation>
 </note>
 
-<note id="fs-id1529521" class="how-to-notitle">
+<note id="fs-id1529521" class="precalculus howto">
 <label>How To</label>
 <para id="fs-id1548985"><emphasis>Given a radical expression, use the quotient rule to simplify it.
 </emphasis></para>
@@ -1115,7 +1065,7 @@ A corequisite course in mathematics is designed to provide support to a student 
 <problem id="fs-id1529634">
 <title>Using the Quotient Rule to Simplify Square Roots</title>
 <para id="fs-id1467611">Simplify the radical expression.</para>
-<para id="fs-id1521376"> <m:math>
+<para id="fs-id1521376"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -1125,16 +1075,16 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>36</m:mn>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para>
 </problem>
 <solution id="fs-id1523766">
-<para id="fs-id1392539"> <m:math>
+<para id="fs-id1392539"><m:math>
  <m:mrow>
   <m:mtable>
    <m:mtr>
@@ -1145,7 +1095,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:msqrt>
          <m:mn>5</m:mn>
         </m:msqrt>
-
+        
        </m:mrow>
        <m:mrow>
         <m:msqrt>
@@ -1153,10 +1103,10 @@ A corequisite course in mathematics is designed to provide support to a student 
           <m:mn>36</m:mn>
          </m:mrow>
         </m:msqrt>
-
+        
        </m:mrow>
       </m:mfrac>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left">
@@ -1173,11 +1123,11 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:msqrt>
          <m:mn>5</m:mn>
         </m:msqrt>
-
+        
        </m:mrow>
        <m:mn>6</m:mn>
       </m:mfrac>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left">
@@ -1186,7 +1136,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      </m:mrow>
     </m:mtd>
    </m:mtr>
-
+   
   </m:mtable>
  </m:mrow>
 </m:math>
@@ -1198,9 +1148,9 @@ A corequisite course in mathematics is designed to provide support to a student 
 <note id="fs-id1520332" class="precalculus try">
 <label>Try It</label>
 <exercise id="ti_01_03_04">
-<problem id="fs-id1385581"><para id="fs-id1509462">Simplify <m:math>
+<problem id="fs-id1385581"><para id="fs-id1509462">Simplify<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mfrac>
      <m:mrow>
@@ -1208,51 +1158,51 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>x</m:mi>
        <m:mn>2</m:mn>
       </m:msup>
-
+      
      </m:mrow>
      <m:mrow>
       <m:mn>9</m:mn><m:msup>
        <m:mi>y</m:mi>
        <m:mn>4</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
   <m:mo>.</m:mo>
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1381301"><para id="fs-id1424945"> <m:math>
+<solution id="fs-id1381301"><para id="fs-id1424945"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
     <m:mi>x</m:mi><m:msqrt>
      <m:mn>2</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:mn>3</m:mn><m:msup>
      <m:mi>y</m:mi>
      <m:mn>2</m:mn>
     </m:msup>
-
+    
    </m:mrow>
   </m:mfrac>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> We do not need the absolute value signs for <m:math>
+</m:math>We do not need the absolute value signs for<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msup>
+  <m:mtext> </m:mtext><m:msup>
    <m:mi>y</m:mi>
    <m:mn>2</m:mn>
   </m:msup>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> because that term will always be nonnegative.</para></solution>
+</m:math>because that term will always be nonnegative.</para></solution>
 </exercise>
 </note>
 
@@ -1261,7 +1211,7 @@ A corequisite course in mathematics is designed to provide support to a student 
 <problem id="fs-id1400380">
 <title>Using the Quotient Rule to Simplify an Expression with Two Square Roots</title>
 <para id="fs-id1399897">Simplify the radical expression.</para>
-<para id="fs-id1428974"> <m:math>
+<para id="fs-id1428974"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -1276,7 +1226,7 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mi>y</m:mi>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msqrt>
@@ -1288,17 +1238,17 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mi>y</m:mi>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
-</para>
+</para> 
 
 </problem>
 <solution id="fs-id1310622">
-<para id="fs-id1522001"> <m:math>
+<para id="fs-id1522001"><m:math>
  <m:mrow>
   <m:mtable>
    <m:mtr>
@@ -1324,10 +1274,10 @@ A corequisite course in mathematics is designed to provide support to a student 
           <m:mi>y</m:mi>
          </m:mrow>
         </m:mfrac>
-
+        
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left">
@@ -1345,10 +1295,10 @@ A corequisite course in mathematics is designed to provide support to a student 
          <m:mi>x</m:mi>
          <m:mn>4</m:mn>
         </m:msup>
-
+        
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left">
@@ -1364,7 +1314,7 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>x</m:mi>
        <m:mn>2</m:mn>
       </m:msup>
-      <m:mspace width="0.8em"/><m:mtext> </m:mtext>
+      <m:mtext>  </m:mtext>
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left">
@@ -1373,7 +1323,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      </m:mrow>
     </m:mtd>
    </m:mtr>
-
+   
   </m:mtable>
  </m:mrow>
 </m:math>
@@ -1385,9 +1335,9 @@ A corequisite course in mathematics is designed to provide support to a student 
 <note id="fs-id1343544" class="precalculus try">
 <label>Try It</label>
 <exercise id="ti_01_03_05">
-<problem id="fs-id1402537"><para id="fs-id832756">Simplify <m:math>
+<problem id="fs-id1402537"><para id="fs-id832756">Simplify<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mrow>
     <m:msqrt>
      <m:mrow>
@@ -1401,10 +1351,10 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>14</m:mn>
        </m:mrow>
       </m:msup>
-
+      
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msqrt>
@@ -1417,17 +1367,17 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>b</m:mi>
        <m:mn>5</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
   <m:mo>.</m:mo>
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1461507"><para id="fs-id1461508"> <m:math>
+<solution id="fs-id1461507"><para id="fs-id1461508"><m:math>
  <m:mrow>
   <m:msup>
    <m:mi>b</m:mi>
@@ -1438,7 +1388,7 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>3</m:mn><m:mi>a</m:mi><m:mi>b</m:mi>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution>
@@ -1448,50 +1398,50 @@ A corequisite course in mathematics is designed to provide support to a student 
 </section>
 <section id="fs-id1413677">
 <title>Adding and Subtracting Square Roots</title>
-<para id="fs-id1483382">We can add or subtract radical expressions only when they have the same radicand and when they have the same radical type such as square roots. For example, the sum of <m:math>
+<para id="fs-id1483382">We can add or subtract radical expressions only when they have the same radicand and when they have the same radical type such as square roots. For example, the sum of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mn>2</m:mn>
   </m:msqrt>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> and <m:math>
+</m:math>and<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>3</m:mn><m:msqrt>
+  <m:mtext> </m:mtext><m:mn>3</m:mn><m:msqrt>
    <m:mn>2</m:mn>
   </m:msqrt>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is <m:math>
+</m:math>is<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>4</m:mn><m:msqrt>
+  <m:mtext> </m:mtext><m:mn>4</m:mn><m:msqrt>
    <m:mn>2</m:mn>
   </m:msqrt>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> However, it is often possible to simplify radical expressions, and that may change the radicand. The radical expression <m:math>
+</m:math>However, it is often possible to simplify radical expressions, and that may change the radicand. The radical expression<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mn>18</m:mn>
    </m:mrow>
   </m:msqrt>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> can be written with a <m:math>
+</m:math>can be written with a<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>2</m:mn><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mn>2</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> in the radicand, as <m:math>
+</m:math>in the radicand, as<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>3</m:mn><m:msqrt>
+  <m:mtext> </m:mtext><m:mn>3</m:mn><m:msqrt>
    <m:mn>2</m:mn>
   </m:msqrt>
   <m:mo>,</m:mo>
  </m:mrow>
-</m:math> so <m:math>
+</m:math>so<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mn>2</m:mn>
   </m:msqrt>
   <m:mo>+</m:mo><m:msqrt>
@@ -1511,11 +1461,11 @@ A corequisite course in mathematics is designed to provide support to a student 
   <m:mo>.</m:mo>
  </m:mrow>
 </m:math>
-</para>
+</para> 
 
-<note id="fs-id1322507" class="how-to-notitle">
+<note id="fs-id1322507" class="precalculus howto">
 <label>How To</label>
-<para id="fs-id1353954"><emphasis>Given a radical expression requiring addition or subtraction of square roots, simplify.</emphasis></para>
+<para id="fs-id1353954"><emphasis>Given a radical expression requiring addition or subtraction of square roots, solve.</emphasis></para>
 <list id="fs-id1429237" number-style="arabic" list-type="enumerated">
 <item>Simplify each radical expression.</item>
 <item>Add or subtract expressions with equal radicands.</item>
@@ -1526,9 +1476,9 @@ A corequisite course in mathematics is designed to provide support to a student 
 <exercise id="fs-id1338244">
 <problem id="fs-id1347024">
 <title>Adding Square Roots</title>
-<para id="fs-id1404234">Add <m:math>
+<para id="fs-id1404234">Add<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>5</m:mn><m:msqrt>
+  <m:mtext> </m:mtext><m:mn>5</m:mn><m:msqrt>
    <m:mrow>
     <m:mn>12</m:mn>
    </m:mrow>
@@ -1543,58 +1493,58 @@ A corequisite course in mathematics is designed to provide support to a student 
 
 </problem>
 <solution id="fs-id1375260">
-<para id="fs-id1537392">We can rewrite <m:math>
+<para id="fs-id1537392">We can rewrite<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>5</m:mn><m:msqrt>
+  <m:mtext> </m:mtext><m:mn>5</m:mn><m:msqrt>
    <m:mrow>
     <m:mn>12</m:mn>
    </m:mrow>
   </m:msqrt>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> as <m:math>
+</m:math>as<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>5</m:mn><m:msqrt>
+  <m:mtext> </m:mtext><m:mn>5</m:mn><m:msqrt>
    <m:mrow>
     <m:mn>4</m:mn><m:mo>·</m:mo><m:mn>3</m:mn>
    </m:mrow>
   </m:msqrt>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> According the product rule, this becomes <m:math>
+</m:math>According the product rule, this becomes<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>5</m:mn><m:msqrt>
+  <m:mtext> </m:mtext><m:mn>5</m:mn><m:msqrt>
    <m:mn>4</m:mn>
   </m:msqrt>
   <m:msqrt>
    <m:mn>3</m:mn>
   </m:msqrt>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> The square root of <m:math>
+</m:math>The square root of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mn>4</m:mn>
   </m:msqrt>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is 2, so the expression becomes <m:math>
+</m:math>is 2, so the expression becomes<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>5</m:mn><m:mrow><m:mo>(</m:mo>
+  <m:mtext> </m:mtext><m:mn>5</m:mn><m:mrow><m:mo>(</m:mo>
    <m:mn>2</m:mn>
   <m:mo>)</m:mo></m:mrow><m:msqrt>
    <m:mn>3</m:mn>
   </m:msqrt>
   <m:mo>,</m:mo>
  </m:mrow>
-</m:math> which is <m:math>
+</m:math>which is<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>10</m:mn><m:msqrt>
+  <m:mtext> </m:mtext><m:mn>10</m:mn><m:msqrt>
    <m:mn>3</m:mn>
   </m:msqrt>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> Now the terms have the same radicand so we can add.</para><para id="fs-id1518289"> <m:math>
+</m:math>Now the terms have the same radicand so we can add.</para><para id="fs-id1518289"><m:math>
  <m:mrow>
   <m:mn>10</m:mn><m:msqrt>
    <m:mn>3</m:mn>
@@ -1605,7 +1555,7 @@ A corequisite course in mathematics is designed to provide support to a student 
   <m:mo>=</m:mo><m:mn>12</m:mn><m:msqrt>
    <m:mn>3</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para>
@@ -1616,9 +1566,9 @@ A corequisite course in mathematics is designed to provide support to a student 
 <note id="fs-id1494905" class="precalculus try">
 <label>Try It</label>
 <exercise id="ti_01_03_06">
-<problem id="fs-id1481957"><para id="fs-id1481958">Add <m:math>
+<problem id="fs-id1481957"><para id="fs-id1481958">Add<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mn>5</m:mn>
   </m:msqrt>
   <m:mo>+</m:mo><m:mn>6</m:mn><m:msqrt>
@@ -1630,12 +1580,12 @@ A corequisite course in mathematics is designed to provide support to a student 
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1409687"><para id="fs-id1409688"> <m:math>
+<solution id="fs-id1409687"><para id="fs-id1409688"><m:math>
  <m:mrow>
   <m:mn>13</m:mn><m:msqrt>
    <m:mn>5</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution>
@@ -1646,9 +1596,9 @@ A corequisite course in mathematics is designed to provide support to a student 
 <exercise id="fs-id1522877">
 <problem id="fs-id1522880">
 <title>Subtracting Square Roots</title>
-<para id="fs-id1441346">Subtract <m:math>
+<para id="fs-id1441346">Subtract<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>20</m:mn><m:msqrt>
+  <m:mtext> </m:mtext><m:mn>20</m:mn><m:msqrt>
    <m:mrow>
     <m:mn>72</m:mn><m:msup>
      <m:mi>a</m:mi>
@@ -1660,7 +1610,7 @@ A corequisite course in mathematics is designed to provide support to a student 
     </m:msup>
     <m:mi>c</m:mi></m:mrow>
   </m:msqrt>
-  <m:mspace width="0.8em"/><m:mo>−</m:mo><m:mn>14</m:mn><m:msqrt>
+  <m:mtext> </m:mtext><m:mo>−</m:mo><m:mn>14</m:mn><m:msqrt>
    <m:mrow>
     <m:mn>8</m:mn><m:msup>
      <m:mi>a</m:mi>
@@ -1673,10 +1623,10 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mi>c</m:mi></m:mrow>
   </m:msqrt>
   <m:mo>.</m:mo></m:mrow>
-</m:math> </para></problem>
+</m:math></para></problem>
 <solution id="fs-id1409632">
 <para id="fs-id1409634">Rewrite each term so they have equal radicands.</para>
-<equation id="fs-id1453036" class="unnumbered"><label/> <m:math>
+<equation id="fs-id1453036" class="unnumbered"><label/><m:math>
  <m:mrow>
   <m:mtable>
    <m:mtr rowalign="center">
@@ -1695,7 +1645,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mi>c</m:mi>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd rowalign="center">
@@ -1721,7 +1671,7 @@ A corequisite course in mathematics is designed to provide support to a student 
          <m:mi>a</m:mi>
          <m:mn>2</m:mn>
         </m:msup>
-
+        
        </m:mrow>
       </m:msqrt>
       <m:msqrt>
@@ -1736,13 +1686,13 @@ A corequisite course in mathematics is designed to provide support to a student 
          </m:mrow>
          <m:mn>2</m:mn>
         </m:msup>
-
+        
        </m:mrow>
       </m:msqrt>
       <m:msqrt>
        <m:mi>c</m:mi>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
    </m:mtr>
@@ -1762,7 +1712,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>2</m:mn><m:mi>a</m:mi><m:mi>c</m:mi>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
    </m:mtr>
@@ -1782,16 +1732,16 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>2</m:mn><m:mi>a</m:mi><m:mi>c</m:mi>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
    </m:mtr>
-
+   
   </m:mtable>
  </m:mrow>
 </m:math>
 
-</equation><equation id="fs-id1499103" class="unnumbered"><label/> <m:math>
+</equation><equation id="fs-id1499103" class="unnumbered"><label/><m:math>
  <m:mrow>
   <m:mtable>
    <m:mtr rowalign="center">
@@ -1810,7 +1760,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mi>c</m:mi>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd rowalign="center">
@@ -1833,7 +1783,7 @@ A corequisite course in mathematics is designed to provide support to a student 
          <m:mi>a</m:mi>
          <m:mn>2</m:mn>
         </m:msup>
-
+        
        </m:mrow>
       </m:msqrt>
       <m:msqrt>
@@ -1848,13 +1798,13 @@ A corequisite course in mathematics is designed to provide support to a student 
          </m:mrow>
          <m:mn>2</m:mn>
         </m:msup>
-
+        
        </m:mrow>
       </m:msqrt>
       <m:msqrt>
        <m:mi>c</m:mi>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
    </m:mtr>
@@ -1874,7 +1824,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>2</m:mn><m:mi>a</m:mi><m:mi>c</m:mi>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
    </m:mtr>
@@ -1894,18 +1844,18 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>2</m:mn><m:mi>a</m:mi><m:mi>c</m:mi>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mtd>
    </m:mtr>
-
+   
   </m:mtable>
  </m:mrow>
 </m:math>
 
 
 </equation><para id="fs-id1522310">Now the terms have the same radicand so we can subtract.</para>
-<equation id="fs-id1522313" class="unnumbered"><label/> <m:math>
+<equation id="fs-id1522313" class="unnumbered"><label/><m:math>
   <m:mn>120</m:mn><m:mo>|</m:mo><m:mi>a</m:mi><m:mo>|</m:mo>
   <m:msup>
    <m:mi>b</m:mi>
@@ -1944,13 +1894,13 @@ A corequisite course in mathematics is designed to provide support to a student 
 <note id="fs-id1481719" class="precalculus try">
 <label>Try It</label>
 <exercise id="ti_01_03_07">
-<problem id="fs-id1507104"><para id="fs-id1507105">Subtract <m:math>
+<problem id="fs-id1507104"><para id="fs-id1507105">Subtract<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>3</m:mn><m:msqrt>
+  <m:mtext> </m:mtext><m:mn>3</m:mn><m:msqrt>
    <m:mrow>
     <m:mn>80</m:mn><m:mi>x</m:mi></m:mrow>
   </m:msqrt>
-  <m:mspace width="0.8em"/><m:mo>−</m:mo><m:mn>4</m:mn><m:msqrt>
+  <m:mtext> </m:mtext><m:mo>−</m:mo><m:mn>4</m:mn><m:msqrt>
    <m:mrow>
     <m:mn>45</m:mn><m:mi>x</m:mi></m:mrow>
   </m:msqrt>
@@ -1958,7 +1908,7 @@ A corequisite course in mathematics is designed to provide support to a student 
 </m:math>
 
 </para></problem>
-<solution id="fs-id1483210"><para id="fs-id1483211"> <m:math>
+<solution id="fs-id1483210"><para id="fs-id1483211"><m:math>
  <m:mn>0</m:mn>
 </m:math>
 </para></solution>
@@ -1969,44 +1919,44 @@ A corequisite course in mathematics is designed to provide support to a student 
 <section id="fs-id1483223">
 <title>Rationalizing Denominators</title>
 <para id="fs-id1483228">When an expression involving square root radicals is written in simplest form, it will not contain a radical in the denominator. We can remove radicals from the denominators of fractions using a process called <emphasis effect="italics">rationalizing the denominator</emphasis>.</para>
-<para id="fs-id1517983">We know that multiplying by 1 does not change the value of an expression. We use this property of multiplication to change expressions that contain radicals in the denominator. To remove radicals from the denominators of fractions, multiply by the form of 1 that will eliminate the radical.</para>
-<para id="fs-id1517989">For a denominator containing a single term, multiply by the radical in the denominator over itself. In other words, if the denominator is <m:math>
+<para id="fs-id1517983">We know that multiplying by 1 does not change the value of an expression. We use this property of multiplication to change expressions that contain radicals in the denominator. To remove radicals from the denominators of fractions, multiply by the form of 1 that will eliminate the radical.</para> 
+<para id="fs-id1517989">For a denominator containing a single term, multiply by the radical in the denominator over itself. In other words, if the denominator is<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>b</m:mi><m:msqrt>
+  <m:mtext> </m:mtext><m:mi>b</m:mi><m:msqrt>
    <m:mi>c</m:mi>
   </m:msqrt>
   <m:mo>,</m:mo>
  </m:mrow>
-</m:math> multiply by <m:math>
+</m:math>multiply by<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mrow>
     <m:msqrt>
      <m:mi>c</m:mi>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msqrt>
      <m:mi>c</m:mi>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
   <m:mo>.</m:mo>
  </m:mrow>
 </m:math>
-</para>
-<para id="fs-id1484146">For a denominator containing the sum or difference of a rational and an irrational term, multiply the numerator and denominator by the conjugate of the denominator, which is found by changing the sign of the radical portion of the denominator. If the denominator is <m:math>
+</para> 
+<para id="fs-id1484146">For a denominator containing the sum or difference of a rational and an irrational term, multiply the numerator and denominator by the conjugate of the denominator, which is found by changing the sign of the radical portion of the denominator. If the denominator is<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi><m:msqrt>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi><m:msqrt>
    <m:mi>c</m:mi>
   </m:msqrt>
   <m:mo>,</m:mo>
  </m:mrow>
-</m:math> then the conjugate is <m:math>
+</m:math>then the conjugate is<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mo>−</m:mo><m:mi>b</m:mi><m:msqrt>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>−</m:mo><m:mi>b</m:mi><m:msqrt>
    <m:mi>c</m:mi>
   </m:msqrt>
   <m:mo>.</m:mo>
@@ -2014,26 +1964,26 @@ A corequisite course in mathematics is designed to provide support to a student 
 </m:math>
 </para>
 
-<note id="fs-id1507274" class="how-to-notitle">
+<note id="fs-id1507274" class="precalculus howto">
 <label>How To</label>
 <para id="fs-id1507281"><emphasis>Given an expression with a single square root radical term in the denominator, rationalize the denominator.</emphasis></para>
 <list id="fs-id1507286" list-type="enumerated" number-style="lower-alpha">
-<item>Multiply the numerator and denominator by the radical in the denominator.</item>
-<item>Simplify.</item>
+<item>Multiply the numerator and denominator by the radical in the denominator.</item> 
+<item>Simplify.</item> 
 </list>
 </note>
 
 <example id="Example_01_03_08"><exercise id="fs-id1440189">
 <problem id="fs-id1440191">
 <title>Rationalizing a Denominator Containing a Single Term</title>
-<para id="fs-id1440197">Write <m:math>
+<para id="fs-id1440197">Write<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mrow>
     <m:mn>2</m:mn><m:msqrt>
      <m:mn>3</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:mn>3</m:mn><m:msqrt>
@@ -2041,32 +1991,32 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>10</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> in simplest form.</para></problem>
+</m:math>in simplest form.</para></problem>
 <solution id="fs-id1511309">
-<para id="fs-id1507291">The radical in the denominator is <m:math>
+<para id="fs-id1507291">The radical in the denominator is<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mn>10</m:mn>
    </m:mrow>
   </m:msqrt>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> So multiply the fraction by <m:math>
+</m:math>So multiply the fraction by<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mrow>
     <m:msqrt>
      <m:mrow>
       <m:mn>10</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msqrt>
@@ -2074,13 +2024,13 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>10</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> Then simplify.</para>
-<equation id="eip-id1167337308447" class="unnumbered"><label/> <m:math display="block">
+</m:math>Then simplify.</para>
+<equation id="eip-id1167337308447" class="unnumbered"><label/><m:math display="block">
  <m:mtable columnalign="left">
   <m:mtr>
    <m:mtd>
@@ -2089,7 +2039,7 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>2</m:mn><m:msqrt>
        <m:mn>3</m:mn>
       </m:msqrt>
-
+      
      </m:mrow>
      <m:mrow>
       <m:mn>3</m:mn><m:msqrt>
@@ -2097,7 +2047,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>10</m:mn>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mfrac>
     <m:mo>⋅</m:mo><m:mfrac>
@@ -2107,7 +2057,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>10</m:mn>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
      <m:mrow>
       <m:msqrt>
@@ -2115,10 +2065,10 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>10</m:mn>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mfrac>
-    <m:mspace width="0.8em"/><m:mtext>   </m:mtext>
+    <m:mtext>    </m:mtext>
    </m:mtd>
   </m:mtr>
   <m:mtr>
@@ -2130,13 +2080,13 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>30</m:mn>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
      <m:mrow>
       <m:mn>30</m:mn>
      </m:mrow>
     </m:mfrac>
-    <m:mspace width="0.8em"/><m:mtext>          </m:mtext>
+    <m:mtext>           </m:mtext>
    </m:mtd>
   </m:mtr>
   <m:mtr>
@@ -2148,17 +2098,17 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>30</m:mn>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
      <m:mrow>
       <m:mn>15</m:mn>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mtd>
   </m:mtr>
  </m:mtable>
-
+ 
 </m:math>
 </equation>
 </solution>
@@ -2167,32 +2117,32 @@ A corequisite course in mathematics is designed to provide support to a student 
 <label>Try It</label>
 
 <exercise id="ti_01_03_08">
-<problem id="fs-id1485674"><para id="fs-id1485676">Write <m:math>
+<problem id="fs-id1485674"><para id="fs-id1485676">Write<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mrow>
     <m:mn>12</m:mn><m:msqrt>
      <m:mn>3</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msqrt>
      <m:mn>2</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> in simplest form.</para></problem>
+</m:math>in simplest form.</para></problem>
 
-<solution id="fs-id1167339431905"><para id="fs-id1167339431906"> <m:math>
+<solution id="fs-id1167339431905"><para id="fs-id1167339431906"><m:math>
  <m:mrow>
   <m:mn>6</m:mn><m:msqrt>
    <m:mn>6</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution>
@@ -2200,72 +2150,72 @@ A corequisite course in mathematics is designed to provide support to a student 
 
 </note>
 
-<note id="fs-id1167339431925" class="how-to-notitle">
+<note id="fs-id1167339431925" class="precalculus howto">
 <label>How To</label>
 <para id="fs-id1167339431931"><emphasis>Given an expression with a radical term and a constant in the denominator, rationalize the denominator.</emphasis></para>
 
 <list id="fs-id1167339431936" number-style="arabic" list-type="enumerated">
 <item>Find the conjugate of the denominator.</item>
-<item>Multiply the numerator and denominator by the conjugate.</item>
+<item>Multiply the numerator and denominator by the conjugate.</item> 
 <item>Use the distributive property.</item>
-<item>Simplify.</item>
+<item>Simplify.</item> 
 </list>
 </note>
 <example id="Example_01_03_09">
 <exercise id="fs-id1530337">
 <problem id="fs-id1530339">
 <title>Rationalizing a Denominator Containing Two Terms</title>
-<para id="fs-id1530345">Write <m:math>
+<para id="fs-id1530345">Write<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mn>4</m:mn>
    <m:mrow>
     <m:mn>1</m:mn><m:mo>+</m:mo><m:msqrt>
      <m:mn>5</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> in simplest form.</para>
+</m:math>in simplest form.</para>
 </problem>
 <solution id="fs-id1466819">
-<para id="fs-id1466821">Begin by finding the conjugate of the denominator by writing the denominator and changing the sign. So the conjugate of <m:math>
+<para id="fs-id1466821">Begin by finding the conjugate of the denominator by writing the denominator and changing the sign. So the conjugate of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>1</m:mn><m:mo>+</m:mo><m:msqrt>
+  <m:mtext> </m:mtext><m:mn>1</m:mn><m:mo>+</m:mo><m:msqrt>
    <m:mn>5</m:mn>
   </m:msqrt>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is <m:math>
+</m:math>is<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>1</m:mn><m:mo>−</m:mo><m:msqrt>
+  <m:mtext> </m:mtext><m:mn>1</m:mn><m:mo>−</m:mo><m:msqrt>
    <m:mn>5</m:mn>
   </m:msqrt>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> Then multiply the fraction by <m:math>
+</m:math>Then multiply the fraction by<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mrow>
     <m:mn>1</m:mn><m:mo>−</m:mo><m:msqrt>
      <m:mn>5</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:mn>1</m:mn><m:mo>−</m:mo><m:msqrt>
      <m:mn>5</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
   <m:mo>.</m:mo>
  </m:mrow>
 </m:math>
 </para>
-<equation id="fs-id1483703" class="unnumbered"><label/> <m:math display="block">
+<equation id="fs-id1483703" class="unnumbered"><label/><m:math display="block">
  <m:mrow>
   <m:mtable>
    <m:mtr rowalign="center">
@@ -2277,7 +2227,7 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>1</m:mn><m:mo>+</m:mo><m:msqrt>
          <m:mn>5</m:mn>
         </m:msqrt>
-
+        
        </m:mrow>
       </m:mfrac>
       <m:mo>⋅</m:mo><m:mfrac>
@@ -2285,16 +2235,16 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>1</m:mn><m:mo>−</m:mo><m:msqrt>
          <m:mn>5</m:mn>
         </m:msqrt>
-
+        
        </m:mrow>
        <m:mrow>
         <m:mn>1</m:mn><m:mo>−</m:mo><m:msqrt>
          <m:mn>5</m:mn>
         </m:msqrt>
-
+        
        </m:mrow>
       </m:mfrac>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd rowalign="center"/>
@@ -2307,13 +2257,13 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>4</m:mn><m:mo>−</m:mo><m:mn>4</m:mn><m:msqrt>
          <m:mn>5</m:mn>
         </m:msqrt>
-
+        
        </m:mrow>
        <m:mrow>
         <m:mo>−</m:mo><m:mn>4</m:mn>
        </m:mrow>
       </m:mfrac>
-
+      
      </m:mrow>
     </m:mtd>
     <m:mtd columnalign="left" rowalign="center">
@@ -2337,7 +2287,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      </m:mrow>
     </m:mtd>
    </m:mtr>
-
+   
   </m:mtable>
  </m:mrow>
 </m:math>
@@ -2350,26 +2300,26 @@ A corequisite course in mathematics is designed to provide support to a student 
 <note id="fs-id1167339431968" class="precalculus try">
 <label>Try It</label>
 <exercise id="ti_01_03_09">
-<problem id="fs-id1167339431980"><para id="fs-id1167339431981">Write <m:math>
+<problem id="fs-id1167339431980"><para id="fs-id1167339431981">Write<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mn>7</m:mn>
    <m:mrow>
     <m:mn>2</m:mn><m:mo>+</m:mo><m:msqrt>
      <m:mn>3</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> in simplest form.</para></problem>
-<solution id="fs-id1167339432016"><para id="fs-id1167339432017"> <m:math>
+</m:math>in simplest form.</para></problem>
+<solution id="fs-id1167339432016"><para id="fs-id1167339432017"><m:math>
  <m:mrow>
   <m:mn>14</m:mn><m:mn>−7</m:mn><m:msqrt>
    <m:mn>3</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution>
@@ -2384,118 +2334,118 @@ A corequisite course in mathematics is designed to provide support to a student 
 
 <section id="fs-id1167339432053">
 <title>Understanding <emphasis effect="italics">n</emphasis>th Roots</title>
-<para id="fs-id1167339432064">Suppose we know that <m:math>
+<para id="fs-id1167339432064">Suppose we know that<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msup>
+  <m:mtext> </m:mtext><m:msup>
    <m:mi>a</m:mi>
    <m:mn>3</m:mn>
   </m:msup>
-  <m:mo>=</m:mo><m:mn>8.</m:mn><m:mspace width="0.8em"/>
+  <m:mo>=</m:mo><m:mn>8.</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> We want to find what number raised to the 3rd power is equal to 8. Since <m:math>
+</m:math>We want to find what number raised to the 3rd power is equal to 8. Since<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msup>
+  <m:mtext> </m:mtext><m:msup>
    <m:mn>2</m:mn>
    <m:mn>3</m:mn>
   </m:msup>
   <m:mo>=</m:mo><m:mn>8</m:mn><m:mo>,</m:mo>
  </m:mrow>
-</m:math> we say that 2 is the cube root of 8.</para>
-<para id="fs-id1167339432119">The <emphasis effect="italics">n</emphasis>th root of <m:math>
+</m:math>we say that 2 is the cube root of 8.</para>
+<para id="fs-id1167339432119">The <emphasis effect="italics">n</emphasis>th root of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is a number that, when raised to the <emphasis effect="italics">n</emphasis>th power, gives <m:math>
+</m:math>is a number that, when raised to the <emphasis effect="italics">n</emphasis>th power, gives<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> For example, <m:math>
+</m:math>For example,<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>−3</m:mn><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mn>−3</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is the 5th root of <m:math>
+</m:math>is the 5th root of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>−243</m:mn><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mn>−243</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> because <m:math>
+</m:math>because<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msup>
+  <m:mtext> </m:mtext><m:msup>
    <m:mrow>
     <m:mo stretchy="false">(</m:mo><m:mn>−3</m:mn><m:mo stretchy="false">)</m:mo>
    </m:mrow>
    <m:mn>5</m:mn>
   </m:msup>
-  <m:mo>=</m:mo><m:mn>−243.</m:mn><m:mspace width="0.8em"/>
+  <m:mo>=</m:mo><m:mn>−243.</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> If <m:math>
+</m:math>If<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is a real number with at least one <emphasis effect="italics">n</emphasis>th root, then the <term>principal <emphasis effect="italics">n</emphasis>th root</term> of <m:math>
+</m:math>is a real number with at least one <emphasis effect="italics">n</emphasis>th root, then the <term>principal <emphasis effect="italics">n</emphasis>th root</term> of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is the number with the same sign as <m:math>
+</m:math>is the number with the same sign as<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> that, when raised to the <emphasis effect="italics">n</emphasis>th power, equals <m:math>
+</m:math>that, when raised to the <emphasis effect="italics">n</emphasis>th power, equals<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mo>.</m:mo>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>.</m:mo>
  </m:mrow>
 </m:math>
 </para>
-<para id="fs-id1167339434352">The principal <emphasis effect="italics">n</emphasis>th root of <m:math>
+<para id="fs-id1167339434352">The principal <emphasis effect="italics">n</emphasis>th root of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is written as <m:math>
+</m:math>is written as<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mroot>
+  <m:mtext> </m:mtext><m:mroot>
    <m:mi>a</m:mi>
    <m:mi>n</m:mi>
   </m:mroot>
   <m:mo>,</m:mo>
  </m:mrow>
-</m:math> where <m:math>
+</m:math>where<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>n</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>n</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is a positive integer greater than or equal to 2. In the radical expression, <m:math>
+</m:math>is a positive integer greater than or equal to 2. In the radical expression,<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>n</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>n</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is called the <term>index</term> of the radical.</para>
+</m:math>is called the <term>index</term> of the radical.</para> 
 
-<note id="fs-id1167339434398"><title>Principal <m:math><m:mi>n</m:mi></m:math> th Root</title>
+<note id="fs-id1167339434398"><title>Principal <m:math><m:mi>n</m:mi></m:math>th Root</title>
 
-<para id="fs-id1167339434411">If <m:math>
+<para id="fs-id1167339434411">If<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is a real number with at least one <emphasis effect="italics">n</emphasis>th root, then the <term>principal <emphasis effect="italics">n</emphasis>th root</term> of <m:math>
+</m:math>is a real number with at least one <emphasis effect="italics">n</emphasis>th root, then the <term>principal <emphasis effect="italics">n</emphasis>th root</term> of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mo>,</m:mo>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>,</m:mo>
  </m:mrow>
-</m:math> written as <m:math>
+</m:math>written as<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mroot>
+  <m:mtext> </m:mtext><m:mroot>
    <m:mi>a</m:mi>
    <m:mi>n</m:mi>
   </m:mroot>
   <m:mo>,</m:mo>
  </m:mrow>
-</m:math> is the number with the same sign as <m:math>
+</m:math>is the number with the same sign as<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> that, when raised to the <emphasis effect="italics">n</emphasis>th power, equals <m:math>
+</m:math>that, when raised to the <emphasis effect="italics">n</emphasis>th power, equals<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> The <term>index</term> of the radical is <m:math>
+</m:math>The <term>index</term> of the radical is<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>n</m:mi><m:mo>.</m:mo>
+  <m:mtext> </m:mtext><m:mi>n</m:mi><m:mo>.</m:mo>
  </m:mrow>
 </m:math>
 </para>
@@ -2504,8 +2454,8 @@ A corequisite course in mathematics is designed to provide support to a student 
 <problem id="fs-id1167339434535">
 <title>Simplifying <emphasis effect="italics">n</emphasis>th Roots</title>
 <para id="fs-id1167339434546">Simplify each of the following:</para>
-<list id="fs-id1167339434549" list-type="enumerated" number-style="arabic" class="circled">
- <item><span class="token">ⓐ</span> <m:math>
+<list id="fs-id1167339434549" list-type="enumerated" number-style="lower-alpha">
+ <item><m:math>
  <m:mrow>
   <m:mroot>
    <m:mrow>
@@ -2513,11 +2463,11 @@ A corequisite course in mathematics is designed to provide support to a student 
    </m:mrow>
    <m:mn>5</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓑ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:mroot>
    <m:mn>4</m:mn>
@@ -2529,11 +2479,11 @@ A corequisite course in mathematics is designed to provide support to a student 
    </m:mrow>
    <m:mn>4</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓒ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:mo>−</m:mo><m:mroot>
    <m:mrow>
@@ -2543,21 +2493,21 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>x</m:mi>
        <m:mn>6</m:mn>
       </m:msup>
-
+      
      </m:mrow>
      <m:mrow>
       <m:mn>125</m:mn>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
    <m:mn>3</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓓ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:mn>8</m:mn><m:mroot>
    <m:mn>3</m:mn>
@@ -2569,15 +2519,14 @@ A corequisite course in mathematics is designed to provide support to a student 
    </m:mrow>
    <m:mn>4</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
 </item>
 </list>
 </problem>
 <solution id="fs-id1167339434698">
-<list id="fs-id1167339434700" list-type="enumerated" number-style="arabic" class="circled">
-  <item><span class="token">ⓐ</span> <m:math>
+<list id="fs-id1167339434700" list-type="enumerated" number-style="lower-alpha"><item><m:math>
     <m:mrow>
         <m:mroot>
             <m:mrow>
@@ -2585,11 +2534,11 @@ A corequisite course in mathematics is designed to provide support to a student 
             </m:mrow>
             <m:mn>5</m:mn>
         </m:mroot>
-        <m:mo>=</m:mo><m:mn>−2</m:mn><m:mspace width="0.8em"/>
+        <m:mo>=</m:mo><m:mn>−2</m:mn><m:mtext> </m:mtext>
     </m:mrow>
-</m:math> because <m:math>
+</m:math>because<m:math>
     <m:mrow>
-        <m:mspace width="0.8em"/><m:msup>
+        <m:mtext> </m:mtext><m:msup>
             <m:mrow>
                 <m:mo stretchy="false">(</m:mo><m:mn>−2</m:mn><m:mo stretchy="false">)</m:mo>
             </m:mrow>
@@ -2598,20 +2547,20 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mo>=</m:mo><m:mn>−32</m:mn>
     </m:mrow>
 </m:math>
-</item>
-<item><span class="token">ⓑ</span>First, express the product as a single radical expression. <m:math>
+</item> 
+<item>First, express the product as a single radical expression.<m:math>
     <m:mrow>
-        <m:mspace width="0.8em"/><m:mroot>
+        <m:mtext> </m:mtext><m:mroot>
             <m:mrow>
                 <m:mn>4,096</m:mn>
             </m:mrow>
             <m:mn>4</m:mn>
         </m:mroot>
-        <m:mo>=</m:mo><m:mn>8</m:mn><m:mspace width="0.8em"/>
+        <m:mo>=</m:mo><m:mn>8</m:mn><m:mtext> </m:mtext>
     </m:mrow>
-</m:math> because <m:math>
+</m:math>because<m:math>
     <m:mrow>
-        <m:mspace width="0.8em"/><m:msup>
+        <m:mtext> </m:mtext><m:msup>
             <m:mn>8</m:mn>
             <m:mn>4</m:mn>
         </m:msup>
@@ -2619,7 +2568,7 @@ A corequisite course in mathematics is designed to provide support to a student 
     </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓒ</span> <m:math>
+<item><m:math>
     <m:mrow>
         <m:mtable>
             <m:mtr>
@@ -2633,11 +2582,11 @@ A corequisite course in mathematics is designed to provide support to a student 
                                             <m:mi>x</m:mi>
                                             <m:mn>6</m:mn>
                                         </m:msup>
-
+                                        
                                     </m:mrow>
                                     <m:mn>3</m:mn>
                                 </m:mroot>
-
+                                
                             </m:mrow>
                             <m:mrow>
                                 <m:mroot>
@@ -2646,10 +2595,10 @@ A corequisite course in mathematics is designed to provide support to a student 
                                     </m:mrow>
                                     <m:mn>3</m:mn>
                                 </m:mroot>
-
+                                
                             </m:mrow>
                         </m:mfrac>
-
+                        
                     </m:mrow>
                 </m:mtd>
                 <m:mtd columnalign="left">
@@ -2667,11 +2616,11 @@ A corequisite course in mathematics is designed to provide support to a student 
                                     <m:mi>x</m:mi>
                                     <m:mn>2</m:mn>
                                 </m:msup>
-
+                                
                             </m:mrow>
                             <m:mn>5</m:mn>
                         </m:mfrac>
-
+                        
                     </m:mrow>
                 </m:mtd>
                 <m:mtd columnalign="left">
@@ -2680,14 +2629,14 @@ A corequisite course in mathematics is designed to provide support to a student 
                     </m:mrow>
                 </m:mtd>
             </m:mtr>
-
+            
         </m:mtable>
     </m:mrow>
 </m:math>
-
-
+    
+    
 </item>
-<item><span class="token">ⓓ</span> <m:math>
+<item><m:math>
     <m:mrow>
         <m:mtable>
             <m:mtr>
@@ -2701,7 +2650,7 @@ A corequisite course in mathematics is designed to provide support to a student 
                             <m:mn>3</m:mn>
                             <m:mn>4</m:mn>
                         </m:mroot>
-
+                        
                     </m:mrow>
                 </m:mtd>
                 <m:mtd columnalign="left">
@@ -2726,13 +2675,13 @@ A corequisite course in mathematics is designed to provide support to a student 
                     </m:mrow>
                 </m:mtd>
             </m:mtr>
-
+            
         </m:mtable>
     </m:mrow>
 </m:math>
-
-
-
+    
+    
+    
 </item>
 </list></solution>
 </exercise>
@@ -2742,8 +2691,8 @@ A corequisite course in mathematics is designed to provide support to a student 
 <label>Try It</label>
 <exercise id="ti_01_03_10">
 <problem id="fs-id1167339435035"><para id="fs-id1167339435036">Simplify.</para>
-<list id="fs-id1167339435039" list-type="enumerated" number-style="arabic" class="circled">
-<item><span class="token">ⓐ</span> <m:math>
+<list id="fs-id1167339435039" list-type="enumerated" number-style="lower-alpha">
+<item><m:math>
  <m:mrow>
   <m:mroot>
    <m:mrow>
@@ -2751,11 +2700,11 @@ A corequisite course in mathematics is designed to provide support to a student 
    </m:mrow>
    <m:mn>3</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓑ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -2765,21 +2714,21 @@ A corequisite course in mathematics is designed to provide support to a student 
      </m:mrow>
      <m:mn>4</m:mn>
     </m:mroot>
-
+    
    </m:mrow>
    <m:mrow>
     <m:mroot>
      <m:mn>5</m:mn>
      <m:mn>4</m:mn>
     </m:mroot>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓒ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:mn>6</m:mn><m:mroot>
    <m:mrow>
@@ -2793,31 +2742,31 @@ A corequisite course in mathematics is designed to provide support to a student 
    </m:mrow>
    <m:mn>3</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
 </item>
 </list>
 </problem>
 <solution id="fs-id1438229">
-<list id="fs-id1438231" list-type="enumerated" number-style="arabic" class="circled">
-<item><span class="token">ⓐ</span> <m:math>
+<list id="fs-id1438231" number-style="lower-alpha" list-type="enumerated">
+<item><m:math>
  <m:mrow>
   <m:mn>−6</m:mn>
  </m:mrow>
 </m:math>
 </item>
-<item><span class="token">ⓑ</span> <m:math>
+<item><m:math>
  <m:mn>6</m:mn>
 </m:math>
 </item>
-<item><span class="token">ⓒ</span> <m:math>
+<item><m:math>
  <m:mrow>
   <m:mn>88</m:mn><m:mroot>
    <m:mn>9</m:mn>
    <m:mn>3</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
 </item>
@@ -2828,15 +2777,15 @@ A corequisite course in mathematics is designed to provide support to a student 
 </section>
 <section id="fs-id1538427">
 <title>Using Rational Exponents</title>
-<para id="fs-id1538433"><term>Radical expressions</term> can also be written without using the radical symbol. We can use rational (fractional) exponents. The index must be a positive integer. If the index <m:math>
+<para id="fs-id1538433"><term>Radical expressions</term> can also be written without using the radical symbol. We can use rational (fractional) exponents. The index must be a positive integer. If the index<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>n</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>n</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is even, then <m:math>
+</m:math>is even, then<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> cannot be negative.</para><equation id="fs-id1507540" class="unnumbered"><label/> <m:math display="block">
+</m:math>cannot be negative.</para><equation id="fs-id1507540" class="unnumbered"><label/><m:math display="block">
  <m:mrow>
   <m:msup>
    <m:mi>a</m:mi>
@@ -2845,20 +2794,20 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mn>1</m:mn>
      <m:mi>n</m:mi>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
   <m:mo>=</m:mo><m:mroot>
    <m:mi>a</m:mi>
    <m:mi>n</m:mi>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
 </equation>
 
 <para id="fs-id1508564">We can also have rational exponents with numerators other than 1. In these cases, the exponent must be a fraction in lowest terms. We raise the base to a power and take an <emphasis effect="italics">n</emphasis>th root. The numerator tells us the power and the denominator tells us the root.</para>
-<equation id="fs-id1508573" class="unnumbered"><label/> <m:math>
+<equation id="fs-id1508573" class="unnumbered"><label/><m:math>
  <m:mrow>
   <m:msup>
    <m:mi>a</m:mi>
@@ -2898,7 +2847,7 @@ A corequisite course in mathematics is designed to provide support to a student 
 
 <title>Rational Exponents</title>
 <para id="fs-id1530682">Rational exponents are another way to express principal <emphasis effect="italics">n</emphasis>th roots. The general form for converting between a radical expression with a radical symbol and one with a rational exponent is</para>
-<equation id="fs-id1530691" class="unnumbered"><label/> <m:math>
+<equation id="fs-id1530691" class="unnumbered"><label/><m:math>
  <m:mrow>
   <m:msup>
    <m:mi>a</m:mi>
@@ -2935,10 +2884,10 @@ A corequisite course in mathematics is designed to provide support to a student 
 
 </equation></note>
 
-<note id="fs-id1520158" class="how-to-notitle"><label>How To</label>
+<note id="fs-id1520158" class="precalculus howto"><label>How To</label>
 <para id="eip-id1592533"><emphasis>Given an expression with a rational exponent, write the expression as a radical.</emphasis></para>
 <list id="fs-id1482550" list-type="enumerated" number-style="arabic">
-<item>Determine the power by looking at the numerator of the exponent.</item>
+<item>Determine the power by looking at the numerator of the exponent.</item> 
 <item>Determine the root by looking at the denominator of the exponent.</item>
 <item>Using the base as the radicand, raise the radicand to the power and use the root as the index.</item>
 </list>
@@ -2946,9 +2895,9 @@ A corequisite course in mathematics is designed to provide support to a student 
 <exercise id="fs-id1482570">
 <problem id="fs-id1482572">
 <title>Writing Rational Exponents as Radicals</title>
-<para id="fs-id1482577">Write <m:math>
+<para id="fs-id1482577">Write<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msup>
+  <m:mtext> </m:mtext><m:msup>
    <m:mrow>
     <m:mn>343</m:mn>
    </m:mrow>
@@ -2957,16 +2906,16 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mn>2</m:mn>
      <m:mn>3</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> as a radical. Simplify.</para>
+</m:math>as a radical. Simplify.</para>
 </problem>
 <solution id="fs-id1467966">
 <para id="fs-id1493792">The 2 tells us the power and the 3 tells us the root.</para>
-<para id="fs-id1493795"> <m:math>
+<para id="fs-id1493795"><m:math>
  <m:mrow>
   <m:msup>
    <m:mrow>
@@ -2977,7 +2926,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mn>2</m:mn>
      <m:mn>3</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
   <m:mo>=</m:mo><m:msup>
@@ -2990,7 +2939,7 @@ A corequisite course in mathematics is designed to provide support to a student 
        </m:mrow>
        <m:mn>3</m:mn>
       </m:mroot>
-
+      
      </m:mrow>
     <m:mo>)</m:mo></m:mrow>
    </m:mrow>
@@ -3004,33 +2953,33 @@ A corequisite course in mathematics is designed to provide support to a student 
      </m:mrow>
      <m:mn>2</m:mn>
     </m:msup>
-
+    
    </m:mrow>
    <m:mn>3</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
-</para><para id="fs-id1468072">We know that <m:math>
+</para><para id="fs-id1468072">We know that<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mroot>
+  <m:mtext> </m:mtext><m:mroot>
    <m:mrow>
     <m:mn>343</m:mn>
    </m:mrow>
    <m:mn>3</m:mn>
   </m:mroot>
-  <m:mo>=</m:mo><m:mn>7</m:mn><m:mspace width="0.8em"/>
+  <m:mo>=</m:mo><m:mn>7</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> because <m:math>
+</m:math>because<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msup>
+  <m:mtext> </m:mtext><m:msup>
    <m:mn>7</m:mn>
    <m:mn>3</m:mn>
   </m:msup>
-  <m:mo>=</m:mo><m:mn>343.</m:mn><m:mspace width="0.8em"/>
+  <m:mo>=</m:mo><m:mn>343.</m:mn><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> Because the cube root is easy to find, it is easiest to find the cube root before squaring for this problem. In general, it is easier to find the root first and then raise it to a power.</para>
-<para id="fs-id1524546"> <m:math display="block">
+</m:math>Because the cube root is easy to find, it is easiest to find the cube root before squaring for this problem. In general, it is easier to find the root first and then raise it to a power.</para> 
+<para id="fs-id1524546"><m:math display="block">
  <m:mrow>
   <m:msup>
    <m:mrow>
@@ -3041,7 +2990,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mn>2</m:mn>
      <m:mn>3</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
   <m:mo>=</m:mo><m:msup>
@@ -3054,7 +3003,7 @@ A corequisite course in mathematics is designed to provide support to a student 
        </m:mrow>
        <m:mn>3</m:mn>
       </m:mroot>
-
+      
      </m:mrow>
     <m:mo>)</m:mo></m:mrow>
    </m:mrow>
@@ -3074,22 +3023,22 @@ A corequisite course in mathematics is designed to provide support to a student 
 <note id="fs-id1501835" class="precalculus try">
 <label>Try It</label>
 <exercise id="ti_01_03_11">
-<problem id="fs-id1501845"><para id="fs-id1501846">Write <m:math>
+<problem id="fs-id1501845"><para id="fs-id1501846">Write<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msup>
+  <m:mtext> </m:mtext><m:msup>
    <m:mn>9</m:mn>
    <m:mrow>
     <m:mfrac>
      <m:mn>5</m:mn>
      <m:mn>2</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> as a radical. Simplify.</para></problem>
-<solution id="fs-id1481505"><para id="fs-id1481506"> <m:math>
+</m:math>as a radical. Simplify.</para></problem>
+<solution id="fs-id1481505"><para id="fs-id1481506"><m:math>
  <m:mrow>
   <m:msup>
    <m:mrow>
@@ -3098,7 +3047,7 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:msqrt>
        <m:mn>9</m:mn>
       </m:msqrt>
-
+      
      </m:mrow>
     <m:mo>)</m:mo></m:mrow>
    </m:mrow>
@@ -3119,9 +3068,9 @@ A corequisite course in mathematics is designed to provide support to a student 
 <exercise id="fs-id1523417">
 <problem id="fs-id1523419">
 <title>Writing Radicals as Rational Exponents</title>
-<para id="fs-id1523425">Write <m:math>
+<para id="fs-id1523425">Write<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mn>4</m:mn>
    <m:mrow>
     <m:mroot>
@@ -3130,30 +3079,30 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>a</m:mi>
        <m:mn>2</m:mn>
       </m:msup>
-
+      
      </m:mrow>
      <m:mn>7</m:mn>
     </m:mroot>
-
+    
    </m:mrow>
   </m:mfrac>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> using a rational exponent.</para>
+</m:math>using a rational exponent.</para>
 
 </problem>
 <solution id="fs-id1522096">
-<para id="fs-id1522098">The power is 2 and the root is 7, so the rational exponent will be <m:math>
+<para id="fs-id1522098">The power is 2 and the root is 7, so the rational exponent will be<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mn>2</m:mn>
    <m:mn>7</m:mn>
   </m:mfrac>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> We get <m:math>
+</m:math>We get<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mn>4</m:mn>
    <m:mrow>
     <m:msup>
@@ -3163,17 +3112,17 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mn>2</m:mn>
        <m:mn>7</m:mn>
       </m:mfrac>
-
+      
      </m:mrow>
     </m:msup>
-
+    
    </m:mrow>
   </m:mfrac>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> Using properties of exponents, we get <m:math>
+</m:math>Using properties of exponents, we get<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mn>4</m:mn>
    <m:mrow>
     <m:mroot>
@@ -3182,11 +3131,11 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>a</m:mi>
        <m:mn>2</m:mn>
       </m:msup>
-
+      
      </m:mrow>
      <m:mn>7</m:mn>
     </m:mroot>
-
+    
    </m:mrow>
   </m:mfrac>
   <m:mo>=</m:mo><m:mn>4</m:mn><m:msup>
@@ -3198,7 +3147,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      </m:mrow>
      <m:mn>7</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
   <m:mo>.</m:mo>
@@ -3212,9 +3161,9 @@ A corequisite course in mathematics is designed to provide support to a student 
 <note id="fs-id1483634" class="precalculus try">
 <label>Try It</label>
 <exercise id="ti_01_03_12">
-<problem id="fs-id1487767"><para id="fs-id1487768">Write <m:math>
+<problem id="fs-id1487767"><para id="fs-id1487768">Write<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>x</m:mi><m:msqrt>
+  <m:mtext> </m:mtext><m:mi>x</m:mi><m:msqrt>
    <m:mrow>
     <m:msup>
      <m:mrow>
@@ -3222,13 +3171,13 @@ A corequisite course in mathematics is designed to provide support to a student 
      </m:mrow>
      <m:mn>9</m:mn>
     </m:msup>
-
+    
    </m:mrow>
   </m:msqrt>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> using a rational exponent.</para></problem>
-<solution id="fs-id1520415"><para id="fs-id1520416"> <m:math>
+</m:math>using a rational exponent.</para></problem>
+<solution id="fs-id1520415"><para id="fs-id1520416"><m:math>
  <m:mrow>
   <m:mi>x</m:mi><m:msup>
    <m:mrow>
@@ -3239,10 +3188,10 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mn>9</m:mn>
      <m:mn>2</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
-
+  
  </m:mrow>
 </m:math>
 </para></solution>
@@ -3250,11 +3199,11 @@ A corequisite course in mathematics is designed to provide support to a student 
 </note>
 
 <example id="Example_01_03_13">
-<exercise id="fs-id1538505"><problem id="fs-id1538508">
+<exercise id="fs-id1538505">
+<problem id="fs-id1538508">
 <title>Simplifying Rational Exponents</title>
 <para id="fs-id1538513">Simplify:</para>
-<list id="fs-id1525591" list-type="enumerated" number-style="arabic" class="circled">
-  <item><span class="token">ⓐ</span> <m:math>
+<list id="fs-id1525591" list-type="enumerated" number-style="lower-alpha"><item><m:math>
  <m:mrow>
   <m:mn>5</m:mn><m:mrow><m:mo>(</m:mo>
    <m:mrow>
@@ -3265,10 +3214,10 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mn>3</m:mn>
        <m:mn>4</m:mn>
       </m:mfrac>
-
+      
      </m:mrow>
     </m:msup>
-
+    
    </m:mrow>
   <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
    <m:mrow>
@@ -3279,16 +3228,16 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mn>1</m:mn>
        <m:mn>5</m:mn>
       </m:mfrac>
-
+      
      </m:mrow>
     </m:msup>
-
+    
    </m:mrow>
   <m:mo>)</m:mo></m:mrow>
  </m:mrow>
 </m:math>
-</item>
-<item><span class="token">ⓑ</span> <m:math>
+</item> 
+<item><m:math>
  <m:mrow>
   <m:msup>
    <m:mrow>
@@ -3300,7 +3249,7 @@ A corequisite course in mathematics is designed to provide support to a student 
        </m:mrow>
        <m:mn>9</m:mn>
       </m:mfrac>
-
+      
      </m:mrow>
     <m:mo>)</m:mo></m:mrow>
    </m:mrow>
@@ -3309,16 +3258,16 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mn>1</m:mn>
      <m:mn>2</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
-
+  
  </m:mrow>
 </m:math>
 </item>
 </list></problem>
 <solution id="fs-id1489297">
-  <para id="eip-idm382304608"><span class="token">ⓐ</span><newline/> <m:math>
+<list id="fs-id1489299" list-type="enumerated" number-style="lower-alpha"><item><newline/><m:math>
     <m:mrow>
         <m:mtable>
             <m:mtr>
@@ -3331,7 +3280,7 @@ A corequisite course in mathematics is designed to provide support to a student 
                                     <m:mn>3</m:mn>
                                     <m:mn>4</m:mn>
                                 </m:mfrac>
-
+                                
                             </m:mrow>
                         </m:msup>
                         <m:msup>
@@ -3341,10 +3290,10 @@ A corequisite course in mathematics is designed to provide support to a student 
                                     <m:mn>1</m:mn>
                                     <m:mn>5</m:mn>
                                 </m:mfrac>
-
+                                
                             </m:mrow>
                         </m:msup>
-
+                        
                     </m:mrow>
                 </m:mtd>
                 <m:mtd columnalign="left">
@@ -3367,10 +3316,10 @@ A corequisite course in mathematics is designed to provide support to a student 
                                     <m:mn>1</m:mn>
                                     <m:mn>5</m:mn>
                                 </m:mfrac>
-
+                                
                             </m:mrow>
                         </m:msup>
-
+                        
                     </m:mrow>
                 </m:mtd>
                 <m:mtd columnalign="left">
@@ -3393,10 +3342,10 @@ A corequisite course in mathematics is designed to provide support to a student 
                                         <m:mn>20</m:mn>
                                     </m:mrow>
                                 </m:mfrac>
-
+                                
                             </m:mrow>
                         </m:msup>
-
+                        
                     </m:mrow>
                 </m:mtd>
                 <m:mtd columnalign="left">
@@ -3405,14 +3354,14 @@ A corequisite course in mathematics is designed to provide support to a student 
                     </m:mrow>
                 </m:mtd>
             </m:mtr>
-
+            
         </m:mtable>
     </m:mrow>
 </m:math>
-
-
-</para>
-<para id="eip-idm647112928"><span class="token">ⓑ</span><newline/> <m:math>
+    
+    
+</item>
+<item><newline/><m:math>
     <m:mrow>
         <m:mtable>
             <m:mtr>
@@ -3428,7 +3377,7 @@ A corequisite course in mathematics is designed to provide support to a student 
                                                 <m:mn>16</m:mn>
                                             </m:mrow>
                                         </m:mfrac>
-
+                                        
                                     </m:mrow>
                                     <m:mo>)</m:mo></m:mrow>
                             </m:mrow>
@@ -3437,10 +3386,10 @@ A corequisite course in mathematics is designed to provide support to a student 
                                     <m:mn>1</m:mn>
                                     <m:mn>2</m:mn>
                                 </m:mfrac>
-
+                                
                             </m:mrow>
                         </m:msup>
-
+                        
                     </m:mrow>
                 </m:mtd>
                 <m:mtd columnalign="left">
@@ -3460,10 +3409,10 @@ A corequisite course in mathematics is designed to provide support to a student 
                                         <m:mn>16</m:mn>
                                     </m:mrow>
                                 </m:mfrac>
-
+                                
                             </m:mrow>
                         </m:msqrt>
-
+                        
                     </m:mrow>
                 </m:mtd>
                 <m:mtd columnalign="left">
@@ -3480,7 +3429,7 @@ A corequisite course in mathematics is designed to provide support to a student 
                                 <m:msqrt>
                                     <m:mn>9</m:mn>
                                 </m:msqrt>
-
+                                
                             </m:mrow>
                             <m:mrow>
                                 <m:msqrt>
@@ -3488,10 +3437,10 @@ A corequisite course in mathematics is designed to provide support to a student 
                                         <m:mn>16</m:mn>
                                     </m:mrow>
                                 </m:msqrt>
-
+                                
                             </m:mrow>
                         </m:mfrac>
-
+                        
                     </m:mrow>
                 </m:mtd>
                 <m:mtd columnalign="left">
@@ -3507,7 +3456,7 @@ A corequisite course in mathematics is designed to provide support to a student 
                             <m:mn>3</m:mn>
                             <m:mn>4</m:mn>
                         </m:mfrac>
-
+                        
                     </m:mrow>
                 </m:mtd>
                 <m:mtd columnalign="left">
@@ -3516,19 +3465,23 @@ A corequisite course in mathematics is designed to provide support to a student 
                     </m:mrow>
                 </m:mtd>
             </m:mtr>
-
+            
         </m:mtable>
     </m:mrow>
 </m:math>
-</para></solution>
-</exercise></example>
+    
+    
+</item>
+</list></solution>
+</exercise>
+</example>
 
 <note id="fs-id1538438" class="precalculus try">
 <label>Try It</label>
 <exercise id="ti_01_03_13">
-<problem id="fs-id1538447"><para id="fs-id1538448">Simplify <m:math>
+<problem id="fs-id1538447"><para id="fs-id1538448">Simplify<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
   <m:msup>
    <m:mrow>
     <m:mrow><m:mo>(</m:mo>
@@ -3553,16 +3506,16 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mn>6</m:mn>
        <m:mn>5</m:mn>
       </m:mfrac>
-
+      
      </m:mrow>
     </m:msup>
-
+    
    </m:mrow>
   <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo>
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1517644"><para id="fs-id1517645"> <m:math>
+<solution id="fs-id1517644"><para id="fs-id1517645"><m:math>
  <m:mrow>
   <m:mn>28</m:mn><m:msup>
    <m:mi>x</m:mi>
@@ -3575,17 +3528,17 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>15</m:mn>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
-
+  
  </m:mrow>
 </m:math>
 </para></solution>
 </exercise>
 </note>
 </section>
-<note id="fs-id1487278" class="media-notitle">
+<note id="fs-id1487278" class="precalculus media">
 <label>Media</label>
 <para id="fs-id1487284">Access these online resources for additional instruction and practice with radicals and rational exponents.</para>
 <list id="fs-id1476938" list-type="bulleted"><item><link url="http://openstax.org/l/introradical">Radicals</link></item>
@@ -3596,77 +3549,77 @@ A corequisite course in mathematics is designed to provide support to a student 
 </section>
 <section id="fs-id1476966" class="key-concepts">
 <title>Key Concepts</title>
-<list id="fs-id1491013" list-type="bulleted">
-<item>The principal square root of a number <m:math>
+<list id="fs-id1491013" list-type="bulleted"> 
+<item>The principal square root of a number<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is the nonnegative number that when multiplied by itself equals <m:math>
+</m:math>is the nonnegative number that when multiplied by itself equals<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> See <link target-id="Example_01_03_01"/>.</item>
-<item>If <m:math>
+</m:math>See <link target-id="Example_01_03_01"/>.</item>
+<item>If<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> and <m:math>
+</m:math>and<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>b</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>b</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> are nonnegative, the square root of the product <m:math>
+</m:math>are nonnegative, the square root of the product<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mi>b</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mi>b</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is equal to the product of the square roots of <m:math>
+</m:math>is equal to the product of the square roots of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> and <m:math>
+</m:math>and<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>b</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>b</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> See <link target-id="Example_01_03_02"/> and <link target-id="Example_01_03_03"/>.</item>
-<item>If <m:math>
+</m:math>See <link target-id="Example_01_03_02"/> and <link target-id="Example_01_03_03"/>.</item>
+<item>If<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> and <m:math>
+</m:math>and<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>b</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>b</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> are nonnegative, the square root of the quotient <m:math>
+</m:math>are nonnegative, the square root of the quotient<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mfrac>
+  <m:mtext> </m:mtext><m:mfrac>
    <m:mi>a</m:mi>
    <m:mi>b</m:mi>
   </m:mfrac>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is equal to the quotient of the square roots of <m:math>
+</m:math>is equal to the quotient of the square roots of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> and <m:math>
+</m:math>and<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>b</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>b</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> See <link target-id="Example_01_03_04"/> and <link target-id="Example_01_03_05"/>.</item>
+</m:math>See <link target-id="Example_01_03_04"/> and <link target-id="Example_01_03_05"/>.</item>
 <item>We can add and subtract radical expressions if they have the same radicand and the same index. See <link target-id="Example_01_03_06"/> and <link target-id="Example_01_03_07"/>.</item>
 <item>Radical expressions written in simplest form do not contain a radical in the denominator. To eliminate the square root radical from the denominator, multiply both the numerator and the denominator by the conjugate of the denominator. See <link target-id="Example_01_03_08"/> and <link target-id="Example_01_03_09"/>.</item>
-<item>The principal <emphasis effect="italics">n</emphasis>th root of <m:math>
+<item>The principal <emphasis effect="italics">n</emphasis>th root of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> is the number with the same sign as <m:math>
+</m:math>is the number with the same sign as<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> that when raised to the <emphasis effect="italics">n</emphasis>th power equals <m:math>
+</m:math>that when raised to the <emphasis effect="italics">n</emphasis>th power equals<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> These roots have the same properties as square roots.<emphasis/><emphasis/> See <link target-id="Example_01_03_10"/>.</item>
+</m:math>These roots have the same properties as square roots.<emphasis/><emphasis/> See <link target-id="Example_01_03_10"/>.</item>
 <item>Radicals can be rewritten as rational exponents and rational exponents can be rewritten as radicals. See <link target-id="Example_01_03_11"/> and <link target-id="Example_01_03_12"/>.</item>
 <item>The properties of exponents apply to rational exponents. See <link target-id="Example_01_03_13"/>.</item>
 </list>
@@ -3687,19 +3640,19 @@ A corequisite course in mathematics is designed to provide support to a student 
 <section id="fs-id1538381">
 <title>Numeric</title>
 <para id="fs-id1538386">For the following exercises, simplify each expression.</para>
-<exercise id="fs-id1514811"><problem id="fs-id1514812"><para id="fs-id1514813"> <m:math>
+<exercise id="fs-id1514811"><problem id="fs-id1514812"><para id="fs-id1514813"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>256</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
+</para></problem> 
 <solution id="fs-id1514831"><para id="fs-id1514832"> 16</para></solution></exercise>
-<exercise id="fs-id1514836"><problem id="fs-id1514837"><para id="fs-id1514838"> <m:math>
+<exercise id="fs-id1514836"><problem id="fs-id1514837"><para id="fs-id1514838"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -3708,14 +3661,14 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>256</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></problem></exercise>
-<exercise id="fs-id1499788"><problem id="fs-id1499789"><para id="fs-id1499790"> <m:math>
+<exercise id="fs-id1499788"><problem id="fs-id1499789"><para id="fs-id1499790"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -3726,12 +3679,12 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mo>)</m:mo></m:mrow>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
+</para></problem> 
 <solution id="fs-id1549257"><para id="fs-id1549258"> 10</para></solution></exercise>
-<exercise id="fs-id1549261"><problem id="fs-id1549262"><para id="fs-id1549264"> <m:math>
+<exercise id="fs-id1549261"><problem id="fs-id1549262"><para id="fs-id1549264"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -3743,52 +3696,52 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>121</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></problem></exercise>
-<exercise id="fs-id1529781"><problem id="fs-id1529782"><para id="fs-id1529784"> <m:math>
+<exercise id="fs-id1529781"><problem id="fs-id1529782"><para id="fs-id1529784"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>196</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
+</para></problem> 
 <solution id="fs-id1430080"><para id="fs-id1430081"> 14</para></solution></exercise>
-<exercise id="fs-id1430084"><problem id="fs-id1430085"><para id="fs-id1430086"> <m:math>
+<exercise id="fs-id1430084"><problem id="fs-id1430085"><para id="fs-id1430086"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mn>1</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></problem></exercise>
-<exercise id="fs-id1430101"><problem id="fs-id1430102"><para id="fs-id1430104"> <m:math>
+<exercise id="fs-id1430101"><problem id="fs-id1430102"><para id="fs-id1430104"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>98</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1487473"><para id="fs-id1487474"> <m:math>
+</para></problem> 
+<solution id="fs-id1487473"><para id="fs-id1487474"><m:math>
  <m:mrow>
   <m:mn>7</m:mn><m:msqrt>
    <m:mn>2</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1487491"><problem id="fs-id1487492"><para id="fs-id1487493"> <m:math>
+<exercise id="fs-id1487491"><problem id="fs-id1487492"><para id="fs-id1487493"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -3800,14 +3753,14 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>64</m:mn>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1545152"><problem id="fs-id1545153"><para id="fs-id1545154"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1545152"><problem id="fs-id1545153"><para id="fs-id1545154"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -3817,40 +3770,40 @@ A corequisite course in mathematics is designed to provide support to a student 
      </m:mrow>
      <m:mn>5</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1511190"><para id="fs-id1511192"> <m:math>
+</para></problem> 
+<solution id="fs-id1511190"><para id="fs-id1511192"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
     <m:mn>9</m:mn><m:msqrt>
      <m:mn>5</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mn>5</m:mn>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1469422"><problem id="fs-id1469424"><para id="fs-id1469425"> <m:math>
+<exercise id="fs-id1469422"><problem id="fs-id1469424"><para id="fs-id1469425"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>800</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1469443"><problem id="fs-id1469444"><para id="fs-id1469445"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1469443"><problem id="fs-id1469444"><para id="fs-id1469445"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -3862,12 +3815,12 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>144</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
+</para></problem> 
 <solution id="fs-id1167339435244"><para id="fs-id1167339435245">25</para></solution></exercise>
-<exercise id="fs-id1167339435248"><problem id="fs-id1167339435249"><para id="fs-id1167339435250"> <m:math>
+<exercise id="fs-id1167339435248"><problem id="fs-id1167339435249"><para id="fs-id1167339435250"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -3877,14 +3830,14 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>50</m:mn>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339435278"><problem id="fs-id1167339435279"><para id="fs-id1167339435280"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339435278"><problem id="fs-id1167339435279"><para id="fs-id1167339435280"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -3896,34 +3849,34 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>162</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339435311"><para id="fs-id1167339435334"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339435311"><para id="fs-id1167339435334"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mn>2</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339435349"><problem id="fs-id1167339435350"><para id="fs-id1167339435352"> <m:math>
+<exercise id="fs-id1167339435349"><problem id="fs-id1167339435350"><para id="fs-id1167339435352"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>192</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339435370"><problem id="fs-id1167339435371"><para id="fs-id1167339435372"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339435370"><problem id="fs-id1167339435371"><para id="fs-id1167339435372"><m:math>
  <m:mrow>
   <m:mn>14</m:mn><m:msqrt>
    <m:mn>6</m:mn>
@@ -3933,20 +3886,20 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>24</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339435403"><para id="fs-id1167339435404"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339435403"><para id="fs-id1167339435404"><m:math>
  <m:mrow>
   <m:mn>2</m:mn><m:msqrt>
    <m:mn>6</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339435421"><problem id="fs-id1167339435422"><para id="fs-id1167339435423"> <m:math>
+<exercise id="fs-id1167339435421"><problem id="fs-id1167339435422"><para id="fs-id1167339435423"><m:math>
  <m:mrow>
   <m:mn>15</m:mn><m:msqrt>
    <m:mn>5</m:mn>
@@ -3956,31 +3909,31 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>45</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339435454"><problem id="fs-id1167339435455"><para id="fs-id1167339435456"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339435454"><problem id="fs-id1167339435455"><para id="fs-id1167339435456"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>150</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339435474"><para id="fs-id1167339435475"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339435474"><para id="fs-id1167339435475"><m:math>
  <m:mrow>
   <m:mn>5</m:mn><m:msqrt>
    <m:mn>6</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339435492"><problem id="fs-id1167339435493"><para id="fs-id1167339435494"> <m:math>
+<exercise id="fs-id1167339435492"><problem id="fs-id1167339435493"><para id="fs-id1167339435494"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -3992,14 +3945,14 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>100</m:mn>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339435525"><problem id="fs-id1167339435526"><para id="fs-id1167339435528"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339435525"><problem id="fs-id1167339435526"><para id="fs-id1167339435528"><m:math>
  <m:mrow>
   <m:mrow><m:mo>(</m:mo>
    <m:mrow>
@@ -4008,7 +3961,7 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>42</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
    <m:mrow>
@@ -4017,24 +3970,24 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>30</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   <m:mo>)</m:mo></m:mrow>
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339435576"><para id="fs-id1167339435577"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339435576"><para id="fs-id1167339435577"><m:math>
  <m:mrow>
   <m:mn>6</m:mn><m:msqrt>
    <m:mrow>
     <m:mn>35</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339435597"><problem id="fs-id1167339435598"><para id="fs-id1167339435599"> <m:math>
+<exercise id="fs-id1167339435597"><problem id="fs-id1167339435598"><para id="fs-id1167339435599"><m:math>
  <m:mrow>
   <m:mn>12</m:mn><m:msqrt>
    <m:mn>3</m:mn>
@@ -4044,11 +3997,11 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>75</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339435630"><problem id="fs-id1167339435631"><para id="fs-id1167339435632"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339435630"><problem id="fs-id1167339435631"><para id="fs-id1167339435632"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4058,14 +4011,14 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>225</m:mn>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339435660"><para id="fs-id1167339435661"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339435660"><para id="fs-id1167339435661"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mn>2</m:mn>
@@ -4073,11 +4026,11 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>15</m:mn>
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339435682"><problem id="fs-id1167339435683"><para id="fs-id1167339435684"> <m:math>
+<exercise id="fs-id1167339435682"><problem id="fs-id1167339435683"><para id="fs-id1167339435684"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4089,14 +4042,14 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>324</m:mn>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339435715"><problem id="fs-id1167339435716"><para id="fs-id1167339435717"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339435715"><problem id="fs-id1167339435716"><para id="fs-id1167339435717"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4108,14 +4061,14 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>361</m:mn>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339435748"><para id="fs-id1167339435749"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339435748"><para id="fs-id1167339435749"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -4124,17 +4077,17 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>10</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:mn>19</m:mn>
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339435782"><problem id="fs-id1167339435784"><para id="fs-id1167339435785"> <m:math>
+<exercise id="fs-id1167339435782"><problem id="fs-id1167339435784"><para id="fs-id1167339435785"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mn>5</m:mn>
@@ -4142,14 +4095,14 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>1</m:mn><m:mo>+</m:mo><m:msqrt>
      <m:mn>3</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339435813"><problem id="fs-id1167339435814"><para id="fs-id1167339435816"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339435813"><problem id="fs-id1167339435814"><para id="fs-id1167339435816"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mn>8</m:mn>
@@ -4159,14 +4112,14 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>17</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339435848"><para id="fs-id1167339435849"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339435848"><para id="fs-id1167339435849"><m:math>
  <m:mrow>
   <m:mo>−</m:mo><m:mfrac>
    <m:mrow>
@@ -4175,15 +4128,15 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>17</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mn>2</m:mn>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339435883"><problem id="fs-id1167339435884"><para id="fs-id1167339435885"> <m:math>
+<exercise id="fs-id1167339435883"><problem id="fs-id1167339435884"><para id="fs-id1167339435885"><m:math>
  <m:mrow>
   <m:mroot>
    <m:mrow>
@@ -4191,11 +4144,11 @@ A corequisite course in mathematics is designed to provide support to a student 
    </m:mrow>
    <m:mn>4</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339435906"><problem id="fs-id1167339435907"><para id="fs-id1167339435908"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339435906"><problem id="fs-id1167339435907"><para id="fs-id1167339435908"><m:math>
  <m:mrow>
   <m:mroot>
    <m:mrow>
@@ -4207,21 +4160,21 @@ A corequisite course in mathematics is designed to provide support to a student 
    <m:mn>2</m:mn>
    <m:mn>3</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339435944"><para id="fs-id1167339435945"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339435944"><para id="fs-id1167339435945"><m:math>
  <m:mrow>
   <m:mn>7</m:mn><m:mroot>
    <m:mn>2</m:mn>
    <m:mn>3</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339435965"><problem id="fs-id1167339435966"><para id="fs-id1167339435967"> <m:math>
+<exercise id="fs-id1167339435965"><problem id="fs-id1167339435966"><para id="fs-id1167339435967"><m:math>
  <m:mrow>
   <m:mroot>
    <m:mrow>
@@ -4233,15 +4186,15 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>243</m:mn>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
    <m:mn>5</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339436003"><problem id="fs-id1167339436004"><para id="fs-id1167339436005"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339436003"><problem id="fs-id1167339436004"><para id="fs-id1167339436005"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -4251,30 +4204,30 @@ A corequisite course in mathematics is designed to provide support to a student 
      </m:mrow>
      <m:mn>4</m:mn>
     </m:mroot>
-
+    
    </m:mrow>
    <m:mrow>
     <m:mroot>
      <m:mn>5</m:mn>
      <m:mn>4</m:mn>
     </m:mroot>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339436048"><para id="fs-id1167339436049"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339436048"><para id="fs-id1167339436049"><m:math>
  <m:mrow>
   <m:mn>15</m:mn><m:msqrt>
    <m:mn>5</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339436066"><problem id="fs-id1167339436067"><para id="fs-id1167339436068"> <m:math>
+<exercise id="fs-id1167339436066"><problem id="fs-id1167339436067"><para id="fs-id1167339436068"><m:math>
  <m:mrow>
   <m:mn>3</m:mn><m:mroot>
    <m:mrow>
@@ -4288,16 +4241,16 @@ A corequisite course in mathematics is designed to provide support to a student 
    </m:mrow>
    <m:mn>3</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
+</para></problem></exercise> 
 
 </section>
 <section id="fs-id1167339436110">
 <title>Algebraic</title>
 <para id="fs-id1167339436115">For the following exercises, simplify each expression.</para>
-<exercise id="fs-id1167339436118"><problem id="fs-id1167339436120"><para id="fs-id1167339436121"> <m:math>
+<exercise id="fs-id1167339436118"><problem id="fs-id1167339436120"><para id="fs-id1167339436121"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4305,24 +4258,24 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>x</m:mi>
      <m:mn>4</m:mn>
     </m:msup>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339436147"><para id="fs-id1167339436148"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339436147"><para id="fs-id1167339436148"><m:math>
  <m:mrow>
   <m:mn>20</m:mn><m:msup>
    <m:mi>x</m:mi>
    <m:mn>2</m:mn>
   </m:msup>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339436169"><problem id="fs-id1167339436170"><para id="fs-id1167339436171"> <m:math>
+<exercise id="fs-id1167339436169"><problem id="fs-id1167339436170"><para id="fs-id1167339436171"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4330,34 +4283,34 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>y</m:mi>
      <m:mn>2</m:mn>
     </m:msup>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339436197"><problem id="fs-id1167339436198"><para id="fs-id1167339436200"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339436197"><problem id="fs-id1167339436198"><para id="fs-id1167339436200"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
     <m:mn>49</m:mn><m:mi>p</m:mi>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339436220"><para id="fs-id1167339436221"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339436220"><para id="fs-id1167339436221"><m:math>
  <m:mrow>
   <m:mn>7</m:mn><m:msqrt>
    <m:mi>p</m:mi>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339436238"><problem id="fs-id1167339436239"><para id="fs-id1167339436240"> <m:math>
+<exercise id="fs-id1167339436238"><problem id="fs-id1167339436239"><para id="fs-id1167339436240"><m:math>
  <m:mrow>
   <m:msup>
    <m:mrow>
@@ -4371,7 +4324,7 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>q</m:mi>
        <m:mn>6</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     <m:mo>)</m:mo></m:mrow>
    </m:mrow>
@@ -4380,14 +4333,14 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mn>1</m:mn>
      <m:mn>2</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339436300"><problem id="fs-id1167339436301"><para id="fs-id1167339436302"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339436300"><problem id="fs-id1167339436301"><para id="fs-id1167339436302"><m:math>
  <m:mrow>
   <m:msup>
    <m:mi>m</m:mi>
@@ -4396,7 +4349,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mn>5</m:mn>
      <m:mn>2</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
   <m:msqrt>
@@ -4404,11 +4357,11 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>289</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339436339"><para id="fs-id1167339436340"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339436339"><para id="fs-id1167339436340"><m:math>
  <m:mrow>
   <m:mn>17</m:mn><m:msup>
    <m:mi>m</m:mi>
@@ -4417,11 +4370,11 @@ A corequisite course in mathematics is designed to provide support to a student 
   <m:msqrt>
    <m:mi>m</m:mi>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339436367"><problem id="fs-id1167339436368"><para id="fs-id1167339436369"> <m:math>
+<exercise id="fs-id1167339436367"><problem id="fs-id1167339436368"><para id="fs-id1167339436369"><m:math>
  <m:mrow>
   <m:mn>9</m:mn><m:msqrt>
    <m:mrow>
@@ -4429,7 +4382,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>m</m:mi>
      <m:mn>2</m:mn>
     </m:msup>
-
+    
    </m:mrow>
   </m:msqrt>
   <m:mo>+</m:mo><m:msqrt>
@@ -4437,11 +4390,11 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>27</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339436410"><problem id="fs-id1167339436411"><para id="fs-id1167339436412"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339436410"><problem id="fs-id1167339436411"><para id="fs-id1167339436412"><m:math>
  <m:mrow>
   <m:mn>3</m:mn><m:msqrt>
    <m:mrow>
@@ -4449,26 +4402,26 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>b</m:mi>
      <m:mn>2</m:mn>
     </m:msup>
-
+    
    </m:mrow>
   </m:msqrt>
   <m:mo>−</m:mo><m:mi>b</m:mi><m:msqrt>
    <m:mi>a</m:mi>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339436451"><para id="fs-id1167339436452"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339436451"><para id="fs-id1167339436452"><m:math>
  <m:mrow>
   <m:mn>2</m:mn><m:mi>b</m:mi><m:msqrt>
    <m:mi>a</m:mi>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339436472"><problem id="fs-id1167339436473"><para id="fs-id1167339436474"> <m:math>
+<exercise id="fs-id1167339436472"><problem id="fs-id1167339436473"><para id="fs-id1167339436474"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -4477,7 +4430,7 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>2</m:mn><m:mi>n</m:mi>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msqrt>
@@ -4486,17 +4439,17 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>n</m:mi>
        <m:mn>4</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339436524"><problem id="fs-id1167339436525"><para id="fs-id1167339436526"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339436524"><problem id="fs-id1167339436525"><para id="fs-id1167339436526"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4506,20 +4459,20 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>x</m:mi>
        <m:mn>3</m:mn>
       </m:msup>
-
+      
      </m:mrow>
      <m:mrow>
       <m:mn>49</m:mn><m:mi>x</m:mi>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339436568"><para id="fs-id1167339436569"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339436568"><para id="fs-id1167339436569"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -4527,11 +4480,11 @@ A corequisite course in mathematics is designed to provide support to a student 
    </m:mrow>
    <m:mn>7</m:mn>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339436592"><problem id="fs-id1167339436593"><para id="fs-id1167339436594"> <m:math>
+<exercise id="fs-id1167339436592"><problem id="fs-id1167339436593"><para id="fs-id1167339436594"><m:math>
  <m:mrow>
   <m:mn>3</m:mn><m:msqrt>
    <m:mrow>
@@ -4543,11 +4496,11 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>99</m:mn><m:mi>z</m:mi>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339436630"><problem id="fs-id1167339436632"><para id="fs-id1167339436633"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339436630"><problem id="fs-id1167339436632"><para id="fs-id1167339436633"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4555,14 +4508,14 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>y</m:mi>
      <m:mn>8</m:mn>
     </m:msup>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339436659"><para id="fs-id1167339436660"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339436659"><para id="fs-id1167339436660"><m:math>
  <m:mrow>
   <m:mn>5</m:mn><m:msup>
    <m:mi>y</m:mi>
@@ -4571,11 +4524,11 @@ A corequisite course in mathematics is designed to provide support to a student 
   <m:msqrt>
    <m:mn>2</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339436687"><problem id="fs-id1167339436688"><para id="fs-id1167339436689"> <m:math>
+<exercise id="fs-id1167339436687"><problem id="fs-id1167339436688"><para id="fs-id1167339436689"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4583,14 +4536,14 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>c</m:mi>
      <m:mn>2</m:mn>
     </m:msup>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339436718"><problem id="fs-id1167339436719"><para id="fs-id1167339436720"> <m:math>
+</para></problem></exercise>  
+<exercise id="fs-id1167339436718"><problem id="fs-id1167339436719"><para id="fs-id1167339436720"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4602,14 +4555,14 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>14</m:mn><m:mi>d</m:mi>
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339436753"><para id="fs-id1167339436754"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339436753"><para id="fs-id1167339436754"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -4618,17 +4571,17 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>7</m:mn><m:mi>d</m:mi>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:mn>7</m:mn><m:mi>d</m:mi>
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339436792"><problem id="fs-id1167339436793"><para id="fs-id1167339436794"> <m:math>
+<exercise id="fs-id1167339436792"><problem id="fs-id1167339436793"><para id="fs-id1167339436794"><m:math>
  <m:mrow>
   <m:msup>
    <m:mi>q</m:mi>
@@ -4637,7 +4590,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mn>3</m:mn>
      <m:mn>2</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
   <m:msqrt>
@@ -4645,18 +4598,18 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>63</m:mn><m:mi>p</m:mi>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339436833"><problem id="fs-id1167339436834"><para id="fs-id1167339436835"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339436833"><problem id="fs-id1167339436834"><para id="fs-id1167339436835"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
     <m:msqrt>
      <m:mn>8</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:mn>1</m:mn><m:mo>−</m:mo><m:msqrt>
@@ -4664,14 +4617,14 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>3</m:mn><m:mi>x</m:mi>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339436876"><para id="fs-id1167339436877"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339436876"><para id="fs-id1167339436877"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -4683,17 +4636,17 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>6</m:mn><m:mi>x</m:mi>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:mn>1</m:mn><m:mn>−3</m:mn><m:mi>x</m:mi>
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339436929"><problem id="fs-id1167339436930"><para id="fs-id1167339436931"> <m:math>
+<exercise id="fs-id1167339436929"><problem id="fs-id1167339436930"><para id="fs-id1167339436931"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4706,17 +4659,17 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>d</m:mi>
        <m:mn>4</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339436971"><problem id="fs-id1167339436972"><para id="fs-id1167339436973"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339436971"><problem id="fs-id1167339436972"><para id="fs-id1167339436973"><m:math>
  <m:mrow>
   <m:msup>
    <m:mi>w</m:mi>
@@ -4725,7 +4678,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mn>3</m:mn>
      <m:mn>2</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
   <m:msqrt>
@@ -4740,7 +4693,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mn>3</m:mn>
      <m:mn>2</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
   <m:msqrt>
@@ -4748,22 +4701,22 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>50</m:mn>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339437041"><para id="fs-id1167339437042"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339437041"><para id="fs-id1167339437042"><m:math>
  <m:mrow>
   <m:mo>−</m:mo><m:mi>w</m:mi><m:msqrt>
    <m:mrow>
     <m:mn>2</m:mn><m:mi>w</m:mi>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339437067"><problem id="fs-id1167339437068"><para id="fs-id1167339437069"> <m:math>
+<exercise id="fs-id1167339437067"><problem id="fs-id1167339437068"><para id="fs-id1167339437069"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4771,7 +4724,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>x</m:mi>
      <m:mn>4</m:mn>
     </m:msup>
-
+    
    </m:mrow>
   </m:msqrt>
   <m:mo>+</m:mo><m:msqrt>
@@ -4780,14 +4733,14 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>x</m:mi>
      <m:mn>4</m:mn>
     </m:msup>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339437116"><problem id="fs-id1167339437117"><para id="fs-id1167339437118"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339437116"><problem id="fs-id1167339437117"><para id="fs-id1167339437118"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -4796,20 +4749,20 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>12</m:mn><m:mi>x</m:mi>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:mn>2</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:msqrt>
      <m:mn>3</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339437161"><para id="fs-id1167339437162"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339437161"><para id="fs-id1167339437162"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -4821,15 +4774,15 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>3</m:mn><m:mi>x</m:mi>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mn>2</m:mn>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339437202"><problem id="fs-id1167339437203"><para id="fs-id1167339437204"> <m:math>
+<exercise id="fs-id1167339437202"><problem id="fs-id1167339437203"><para id="fs-id1167339437204"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4837,14 +4790,14 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>k</m:mi>
      <m:mn>3</m:mn>
     </m:msup>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339437231"><problem id="fs-id1167339437232"><para id="fs-id1167339437233"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339437231"><problem id="fs-id1167339437232"><para id="fs-id1167339437233"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4854,14 +4807,14 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>10</m:mn>
      </m:mrow>
     </m:msup>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339437263"><para id="fs-id1167339437264"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339437263"><para id="fs-id1167339437264"><m:math>
  <m:mrow>
   <m:mn>5</m:mn><m:msup>
    <m:mi>n</m:mi>
@@ -4870,11 +4823,11 @@ A corequisite course in mathematics is designed to provide support to a student 
   <m:msqrt>
    <m:mn>5</m:mn>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339437291"><problem id="fs-id1167339437292"><para id="fs-id1167339437293"> <m:math>
+<exercise id="fs-id1167339437291"><problem id="fs-id1167339437292"><para id="fs-id1167339437293"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4887,17 +4840,17 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>q</m:mi>
        <m:mn>3</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339437334"><problem id="fs-id1167339437336"><para id="fs-id1167339437337"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339437334"><problem id="fs-id1167339437336"><para id="fs-id1167339437337"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4910,34 +4863,34 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>m</m:mi>
        <m:mn>2</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339437378"><para id="fs-id1167339437379"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339437378"><para id="fs-id1167339437379"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
     <m:mn>9</m:mn><m:msqrt>
      <m:mi>m</m:mi>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:mn>19</m:mn><m:mi>m</m:mi>
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339437411"><problem id="fs-id1167339437412"><para id="fs-id1167339437413"> <m:math>
+<exercise id="fs-id1167339437411"><problem id="fs-id1167339437412"><para id="fs-id1167339437413"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4949,11 +4902,11 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>2</m:mn><m:mi>c</m:mi>
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339437450"><problem id="fs-id1167339437451"><para id="fs-id1167339437452"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339437450"><problem id="fs-id1167339437451"><para id="fs-id1167339437452"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -4966,17 +4919,17 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>d</m:mi>
        <m:mn>2</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339437491"><para id="fs-id1167339437492"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339437491"><para id="fs-id1167339437492"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mn>2</m:mn>
@@ -4984,11 +4937,11 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mn>3</m:mn><m:mi>d</m:mi>
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339437516"><problem id="fs-id1167339437517"><para id="fs-id1167339437518"> <m:math>
+<exercise id="fs-id1167339437516"><problem id="fs-id1167339437517"><para id="fs-id1167339437518"><m:math>
  <m:mrow>
   <m:mroot>
    <m:mrow>
@@ -4996,7 +4949,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>x</m:mi>
      <m:mn>6</m:mn>
     </m:msup>
-
+    
    </m:mrow>
    <m:mn>3</m:mn>
   </m:mroot>
@@ -5006,15 +4959,15 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>x</m:mi>
      <m:mn>6</m:mn>
     </m:msup>
-
+    
    </m:mrow>
    <m:mn>3</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339437571"><problem id="fs-id1167339437572"><para id="fs-id1167339437573"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339437571"><problem id="fs-id1167339437572"><para id="fs-id1167339437573"><m:math>
  <m:mrow>
   <m:mroot>
    <m:mrow>
@@ -5024,25 +4977,25 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>x</m:mi>
        <m:mn>6</m:mn>
       </m:msup>
-
+      
      </m:mrow>
      <m:mrow>
       <m:mn>16</m:mn><m:msup>
        <m:mi>x</m:mi>
        <m:mn>4</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
    <m:mn>4</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339437625"><para id="fs-id1167339437626"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339437625"><para id="fs-id1167339437626"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -5052,19 +5005,19 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>x</m:mi>
        <m:mn>2</m:mn>
       </m:msup>
-
+      
      </m:mrow>
      <m:mn>4</m:mn>
     </m:mroot>
-
+    
    </m:mrow>
    <m:mn>2</m:mn>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339437667"><problem id="fs-id1167339437668"><para id="fs-id1167339437669"> <m:math>
+<exercise id="fs-id1167339437667"><problem id="fs-id1167339437668"><para id="fs-id1167339437669"><m:math>
  <m:mrow>
   <m:mroot>
    <m:mrow>
@@ -5072,11 +5025,11 @@ A corequisite course in mathematics is designed to provide support to a student 
    </m:mrow>
    <m:mn>3</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
-<exercise id="fs-id1167339437693"><problem id="fs-id1167339437694"><para id="fs-id1167339437695"> <m:math>
+</para></problem></exercise> 
+<exercise id="fs-id1167339437693"><problem id="fs-id1167339437694"><para id="fs-id1167339437695"><m:math>
  <m:mrow>
   <m:mroot>
    <m:mrow>
@@ -5084,7 +5037,7 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>z</m:mi>
      <m:mn>3</m:mn>
     </m:msup>
-
+    
    </m:mrow>
    <m:mn>3</m:mn>
   </m:mroot>
@@ -5094,25 +5047,25 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mi>z</m:mi>
      <m:mn>3</m:mn>
     </m:msup>
-
+    
    </m:mrow>
    <m:mn>3</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
-</para></problem>
-<solution id="fs-id1167339437750"><para id="fs-id1167339437752"> <m:math>
+</para></problem> 
+<solution id="fs-id1167339437750"><para id="fs-id1167339437752"><m:math>
  <m:mrow>
   <m:mn>6</m:mn><m:mi>z</m:mi><m:mroot>
    <m:mn>2</m:mn>
    <m:mn>3</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339437774"><problem id="fs-id1167339437775"><para id="fs-id1167339437776"> <m:math>
+<exercise id="fs-id1167339437774"><problem id="fs-id1167339437775"><para id="fs-id1167339437776"><m:math>
  <m:mrow>
   <m:mroot>
    <m:mrow>
@@ -5122,56 +5075,59 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>10</m:mn>
      </m:mrow>
     </m:msup>
-
+    
    </m:mrow>
    <m:mn>5</m:mn>
   </m:mroot>
-
+  
  </m:mrow>
 </m:math>
-</para></problem></exercise>
+</para></problem></exercise> 
 
 </section>
-<section id="fs-id1167339437814"><title>Real-World Applications</title><exercise id="fs-id1167339437820" class="material-set-2"><problem id="fs-id1167339437821"><para id="fs-id1167339437822">A guy wire for a suspension bridge runs from the ground diagonally to the top of the closest pylon to make a triangle. We can use the Pythagorean Theorem to find the length of guy wire needed. The square of the distance between the wire on the ground and the pylon on the ground is 90,000 feet. The square of the height of the pylon is 160,000 feet. So the length of the guy wire can be found by evaluating <m:math>
+<section id="fs-id1167339437814">
+<title>Real-World Applications</title>
+<exercise id="fs-id1167339437820"><problem id="fs-id1167339437821"><para id="fs-id1167339437822">A guy wire for a suspension bridge runs from the ground diagonally to the top of the closest pylon to make a triangle. We can use the Pythagorean Theorem to find the length of guy wire needed. The square of the distance between the wire on the ground and the pylon on the ground is 90,000 feet. The square of the height of the pylon is 160,000 feet. So the length of the guy wire can be found by evaluating<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:msqrt>
+  <m:mtext> </m:mtext><m:msqrt>
    <m:mrow>
     <m:mn>90,000</m:mn><m:mo>+</m:mo><m:mn>160,000</m:mn>
    </m:mrow>
   </m:msqrt>
-  <m:mo>.</m:mo><m:mspace width="0.8em"/>
+  <m:mo>.</m:mo><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> What is the length of the guy wire?</para></problem>
+</m:math>What is the length of the guy wire?</para></problem>
 <solution id="fs-id1167339437865"><para id="fs-id1167339437866"> 500 feet</para></solution></exercise>
-<exercise id="fs-id1167339437869" class="material-set-2"><problem id="fs-id1167339437870"><para id="fs-id1167339437871">A car accelerates at a rate of <m:math>
+<exercise id="fs-id1167339437869"><problem id="fs-id1167339437870"><para id="fs-id1167339437871">A car accelerates at a rate of<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mn>6</m:mn><m:mo>−</m:mo><m:mfrac>
+  <m:mtext> </m:mtext><m:mn>6</m:mn><m:mo>−</m:mo><m:mfrac>
    <m:mrow>
     <m:msqrt>
      <m:mn>4</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msqrt>
      <m:mi>t</m:mi>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
   <m:msup>
    <m:mrow>
-    <m:mspace width="0.8em"/><m:mtext>m/s</m:mtext>
+    <m:mtext> m/s</m:mtext>
    </m:mrow>
    <m:mn>2</m:mn>
   </m:msup>
-  <m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext>
  </m:mrow>
-</m:math> where <emphasis effect="italics">t</emphasis> is the time in seconds after the car moves from rest. Simplify the expression.</para></problem></exercise>
-</section><section id="fs-id1167339437932">
+</m:math>where <emphasis effect="italics">t</emphasis> is the time in seconds after the car moves from rest. Simplify the expression.</para></problem></exercise>
+</section>
+<section id="fs-id1167339437932">
 <title>Extensions</title>
 <para id="fs-id1167339437937">For the following exercises, simplify each expression.</para>
-<exercise id="fs-id1167339437940"><problem id="fs-id1167339437942"><para id="fs-id1167339437943"> <m:math>
+<exercise id="fs-id1167339437940"><problem id="fs-id1167339437942"><para id="fs-id1167339437943"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -5183,13 +5139,13 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>16</m:mn>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:mn>4</m:mn><m:mo>−</m:mo><m:msqrt>
      <m:mn>2</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
   <m:mo>−</m:mo><m:msup>
@@ -5199,14 +5155,14 @@ A corequisite course in mathematics is designed to provide support to a student 
      <m:mn>1</m:mn>
      <m:mn>2</m:mn>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msup>
-
+  
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1167339438011"><para id="fs-id1167339438012"> <m:math>
+<solution id="fs-id1167339438011"><para id="fs-id1167339438012"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -5217,11 +5173,11 @@ A corequisite course in mathematics is designed to provide support to a student 
    </m:mrow>
    <m:mn>7</m:mn>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339438046"><problem id="fs-id1167339438047"><para id="fs-id1167339438048"> <m:math>
+<exercise id="fs-id1167339438046"><problem id="fs-id1167339438047"><para id="fs-id1167339438048"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -5232,7 +5188,7 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mn>3</m:mn>
        <m:mn>2</m:mn>
       </m:mfrac>
-
+      
      </m:mrow>
     </m:msup>
     <m:mo>−</m:mo><m:msup>
@@ -5244,10 +5200,10 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mn>3</m:mn>
        <m:mn>2</m:mn>
       </m:mfrac>
-
+      
      </m:mrow>
     </m:msup>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msup>
@@ -5257,17 +5213,17 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mn>1</m:mn>
        <m:mn>3</m:mn>
       </m:mfrac>
-
+      
      </m:mrow>
     </m:msup>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></problem></exercise>
-<exercise id="fs-id1167339438131"><problem id="fs-id1167339438132"><para id="fs-id1167339438133"> <m:math>
+<exercise id="fs-id1167339438131"><problem id="fs-id1167339438132"><para id="fs-id1167339438133"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -5277,10 +5233,10 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>n</m:mi>
        <m:mn>3</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msup>
@@ -5295,10 +5251,10 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>−3</m:mn>
        </m:mrow>
       </m:msup>
-
+      
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
   <m:mo>⋅</m:mo><m:mfrac>
@@ -5315,7 +5271,7 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>−2</m:mn>
      </m:mrow>
     </m:msup>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msqrt>
@@ -5328,17 +5284,17 @@ A corequisite course in mathematics is designed to provide support to a student 
        <m:mi>c</m:mi>
        <m:mn>4</m:mn>
       </m:msup>
-
+      
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1167339438268"><para id="fs-id1167339438269"> <m:math>
+<solution id="fs-id1167339438268"><para id="fs-id1167339438269"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -5347,7 +5303,7 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mi>m</m:mi><m:mi>n</m:mi><m:mi>c</m:mi>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msup>
@@ -5357,11 +5313,11 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mi>c</m:mi><m:mi>m</m:mi><m:mi>n</m:mi>
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339438318"><problem id="fs-id1167339438319"><para id="fs-id1167339438320"> <m:math>
+<exercise id="fs-id1167339438318"><problem id="fs-id1167339438319"><para id="fs-id1167339438320"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mi>a</m:mi>
@@ -5369,14 +5325,14 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mi>a</m:mi><m:mo>−</m:mo><m:msqrt>
      <m:mi>c</m:mi>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></problem></exercise>
-<exercise id="fs-id1167339438349"><problem id="fs-id1167339438350"><para id="fs-id1167339438351"> <m:math>
+<exercise id="fs-id1167339438349"><problem id="fs-id1167339438350"><para id="fs-id1167339438351"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -5388,7 +5344,7 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mo>+</m:mo><m:mn>4</m:mn><m:msqrt>
      <m:mi>y</m:mi>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mrow>
     <m:msqrt>
@@ -5396,14 +5352,14 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>128</m:mn><m:mi>y</m:mi>
      </m:mrow>
     </m:msqrt>
-
+    
    </m:mrow>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1167339438405"><para id="fs-id1167339438406"> <m:math>
+<solution id="fs-id1167339438405"><para id="fs-id1167339438406"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
@@ -5413,15 +5369,15 @@ A corequisite course in mathematics is designed to provide support to a student 
     <m:mi>x</m:mi><m:mo>+</m:mo><m:msqrt>
      <m:mn>2</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mn>4</m:mn>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
-<exercise id="fs-id1167339438444"><problem id="fs-id1167339438445"><para id="fs-id1167339438446"> <m:math>
+<exercise id="fs-id1167339438444"><problem id="fs-id1167339438445"><para id="fs-id1167339438446"><m:math>
  <m:mrow>
   <m:mrow><m:mo>(</m:mo>
    <m:mrow>
@@ -5433,10 +5389,10 @@ A corequisite course in mathematics is designed to provide support to a student 
          <m:mi>x</m:mi>
          <m:mn>2</m:mn>
         </m:msup>
-
+        
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
      <m:mrow>
       <m:msqrt>
@@ -5445,13 +5401,13 @@ A corequisite course in mathematics is designed to provide support to a student 
          <m:mi>b</m:mi>
          <m:mn>3</m:mn>
         </m:msup>
-
+        
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
    <m:mrow>
@@ -5460,7 +5416,7 @@ A corequisite course in mathematics is designed to provide support to a student 
       <m:mn>7</m:mn><m:msqrt>
        <m:mi>b</m:mi>
       </m:msqrt>
-
+      
      </m:mrow>
      <m:mrow>
       <m:msqrt>
@@ -5468,16 +5424,16 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>125</m:mn><m:mi>x</m:mi>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   <m:mo>)</m:mo></m:mrow>
  </m:mrow>
 </m:math>
 </para></problem></exercise>
-<exercise id="fs-id1167339438550"><problem id="fs-id1167339438552"><para id="fs-id1167339438553"> <m:math>
+<exercise id="fs-id1167339438550"><problem id="fs-id1167339438552"><para id="fs-id1167339438553"><m:math>
  <m:mrow>
   <m:msqrt>
    <m:mrow>
@@ -5495,7 +5451,7 @@ A corequisite course in mathematics is designed to provide support to a student 
        </m:mrow>
        <m:mn>4</m:mn>
       </m:mroot>
-
+      
      </m:mrow>
      <m:mrow>
       <m:msqrt>
@@ -5508,28 +5464,28 @@ A corequisite course in mathematics is designed to provide support to a student 
         <m:mn>256</m:mn>
        </m:mrow>
       </m:msqrt>
-
+      
      </m:mrow>
     </m:mfrac>
-
+    
    </m:mrow>
   </m:msqrt>
-
+  
  </m:mrow>
 </m:math>
 </para></problem>
-<solution id="fs-id1167339438628"><para id="fs-id1167339438629"> <m:math>
+<solution id="fs-id1167339438628"><para id="fs-id1167339438629"><m:math>
  <m:mrow>
   <m:mfrac>
    <m:mrow>
     <m:msqrt>
      <m:mn>3</m:mn>
     </m:msqrt>
-
+    
    </m:mrow>
    <m:mn>3</m:mn>
   </m:mfrac>
-
+  
  </m:mrow>
 </m:math>
 </para></solution></exercise>
@@ -5539,23 +5495,23 @@ A corequisite course in mathematics is designed to provide support to a student 
 </content>
 <glossary>
 <definition id="fs-id1496924"><term>index	</term><meaning id="fs-id1496927">the number above the radical sign indicating the <emphasis effect="italics">n</emphasis>th root</meaning></definition>
-<definition id="fs-id1496935"><term>principal <emphasis effect="italics">n</emphasis>th root</term><meaning id="fs-id1167339435317"> the number with the same sign as <m:math>
+<definition id="fs-id1496935"><term>principal <emphasis effect="italics">n</emphasis>th root</term><meaning id="fs-id1167339435317"> the number with the same sign as<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> that when raised to the <emphasis effect="italics">n</emphasis>th power equals <m:math>
+</m:math>that when raised to the <emphasis effect="italics">n</emphasis>th power equals<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi>
+  <m:mtext> </m:mtext><m:mi>a</m:mi>
  </m:mrow>
 </m:math>
 </meaning></definition>
-<definition id="fs-id1442093"><term>principal square root</term><meaning id="fs-id1442096">the nonnegative square root of a number <m:math>
+<definition id="fs-id1442093"><term>principal square root</term><meaning id="fs-id1442096">the nonnegative square root of a number<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi><m:mspace width="0.8em"/>
+  <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext>
  </m:mrow>
-</m:math> that, when multiplied by itself, equals <m:math>
+</m:math>that, when multiplied by itself, equals<m:math>
  <m:mrow>
-  <m:mspace width="0.8em"/><m:mi>a</m:mi>
+  <m:mtext> </m:mtext><m:mi>a</m:mi>
  </m:mrow>
 </m:math>
 </meaning></definition>
