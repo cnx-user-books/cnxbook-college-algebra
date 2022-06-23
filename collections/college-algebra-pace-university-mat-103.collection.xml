@@ -1,0 +1,82 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12192</md:content-id>
+    <md:title>College Algebra: Pace University MAT 103</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>53021f51-e8e2-474d-8f08-f8e69e33b4bc</md:uuid>
+<md:slug>college-algebra-pace-university-mat-103</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m63490"/>
+    <col:subcollection>
+      <md:title>Prerequisites</md:title>
+      <col:content>
+        <col:module document="m51240"/>
+        <col:module document="m64333"/>
+        <col:module document="m64334"/>
+        <col:module document="m64335"/>
+        <col:module document="m64337"/>
+        <col:module document="m64338"/>
+        <col:module document="m64341"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Equations and Inequalities</md:title>
+      <col:content>
+        <col:module document="m51251"/>
+        <col:module document="m51252"/>
+        <col:module document="m51253"/>
+        <col:module document="m51254"/>
+        <col:module document="m51256"/>
+        <col:module document="m51258"/>
+        <col:module document="m64320"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Functions</md:title>
+      <col:content>
+        <col:module document="m51260"/>
+        <col:module document="m51261"/>
+        <col:module document="m51262"/>
+        <col:module document="m51263"/>
+        <col:module document="m51265"/>
+        <col:module document="m51267"/>
+        <col:module document="m64321"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Linear Functions</md:title>
+      <col:content>
+        <col:module document="m51269"/>
+        <col:module document="m51270"/>
+        <col:module document="m51271"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Polynomial and Rational Functions</md:title>
+      <col:content>
+        <col:module document="m51273"/>
+        <col:module document="m51274"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Exponential and Logarithmic Functions</md:title>
+      <col:content>
+        <col:module document="m49356"/>
+        <col:module document="m49361"/>
+        <col:module document="m49362"/>
+        <col:module document="m49363"/>
+        <col:module document="m49364"/>
+        <col:module document="m49365"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Systems of Equations and Inequalities</md:title>
+      <col:content>
+        <col:module document="m49418"/>
+        <col:module document="m49420"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
