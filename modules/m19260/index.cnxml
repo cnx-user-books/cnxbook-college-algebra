@@ -1,0 +1,130 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Quadratic Homework -- Solving Problems by Graphing Quadratic Functions</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>55566748-acfe-49ba-a67d-bc73a42de7fc</md:uuid>
+</metadata>
+  <content>
+    <para id="id11287148">Let’s start with our ball being thrown up into the air. As you doubtless recall:</para>
+    
+    
+    <para id="element-99"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>h</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>t</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>h</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>o</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>o</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>t</m:mi>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mtext>16</m:mtext>
+                  </m:mrow>
+                  <m:msup>
+                    <m:mi>t</m:mi>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{h \( t \) =h rSub { size 8{o} } +v rSub { size 8{o} } t - "16"t rSup { size 8{2} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><exercise id="element-57"><problem id="idm612896">
+  <para id="element-1">
+A ball is thrown upward from the ground with an initial velocity of 64 ft/sec.
+  </para><list id="element-120" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Write the equation of motion for the ball.</item>
+      <item><label>b</label> Put that equation into standard form for graphing.</item>
+      <item><label>c</label> Now draw the graph. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h} {}</m:annotation></m:semantics></m:math> (the height, and also the dependent variable) should be on the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>-axis, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math> (the time, and also the <emphasis>in</emphasis>dependent variable) should be on the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-axis.</item>
+      <item><label>d</label> Use your graph to answer the following questions: at what time(s) is the ball on the ground?</item>
+      <item><label>e</label> At what time does the ball reach its maximum height?</item>
+      <item><label>f</label> What is that maximum height?</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-9"><problem id="idp3653968">
+  <para id="element-660">
+Another ball is thrown upward, this time from the roof, 30' above ground, with an initial velocity of 200 ft/sec.
+  </para><list id="element-692" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Write the equation of motion for the ball.</item>
+      <item><label>b</label> Put that equation into standard form for graphing, and draw the graph as before.</item>
+      <item><label>c</label> At what time(s) is the ball on the ground?</item>
+      <item><label>d</label> At what time does the ball reach its maximum height?</item>
+      <item><label>e</label> What is that maximum height?</item>
+    </list>
+</problem>
+
+
+</exercise>
+    <para id="id10757551">OK, we’re done with the height equation for now. The following problem is taken from a Calculus book. Just so you know.
+    </para>
+    
+    <exercise id="element-686"><problem id="idp183424">
+  <para id="element-192">
+A farmer has 2400 feet of fencing, and wants to fence off a rectangular field that borders a straight river. He needs no fence along the river. What are the dimensions of the field that has the largest area?
+  </para><list id="element-839" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> We’re going to start by getting a “feeling” for this problem, by doing a few drawings. First of all, draw the river, and the fence around the field by the river, assuming that the farmer makes his field 2200 feet long. How far out from the river does the field go? What is the total area of the field? <emphasis>After you do part (a), please stop and check with me, so we can make sure you have the right idea, before going on to part (b).</emphasis>
+    </item>
+
+      <item><label>b</label> Now, do another drawing where the farmer makes his field only 400 feet long. How far out from the river does the field go? What is the total area of the field?</item>
+      <item><label>c</label> Now, do another drawing where the farmer makes his field 1000 feet long. How far out from the river does the field go? What is the total area of the field?</item>
+    </list>
+      <para id="firstpara">The purpose of all that was to make the point that if the field is too short or too long then the area will be small; somewhere in between is the length that will give the biggest field area. For instance, 1000 works better than 2200 or 400. But what length works best? Now we’re going to find it.</para>
+    
+      <list id="secondlist" list-type="labeled-item" mark-suffix=".">
+
+<item><label>d</label> Do a final drawing, but this time, label the length of the field simply 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>. How far out from the river does the field go?</item>
+      <item><label>e</label> What is the area of the field, as a function of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>?</item>
+      <item><label>f</label> Rewrite 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>A</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A \( x \) } {}</m:annotation></m:semantics></m:math> in a form where you can graph it, and do a quick sketch. (Graph paper not necessary, but you do need to label the vertex.)</item>
+      <item><label>g</label> Based on your graph, how long should the field be to maximize the area? What is that maximum area? <note type="Hint" id="idp7212672"><label>Hint</label>Make sure the area comes out bigger than all the other three you already did, or something is wrong!</note>
+    </item></list>
+</problem>
+
+
+</exercise>
+    
+    
+    
+    
+  </content>
+</document>
